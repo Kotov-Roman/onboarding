@@ -2,46 +2,55 @@ package com.epam.onboarding.tasks.first;
 
 import com.google.gson.Gson;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
 import javax.xml.xpath.XPathFactory;
+import lombok.SneakyThrows;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.util.StringUtils;
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
 
 @Component
 public class XmlDataExtractor {
 
   private static final String CREATION_DATE_EXPRESSION = "NOTICE/WORK/CREATIONDATE/VALUE";
   private static final String MODIFICATION_DATE_EXPRESSION = "NOTICE/WORK/LASTMODIFICATIONDATE/VALUE";
-  private static final String IDENTIFIER_EXPRESSION = "NOTICE/WORK/WORK_HAS_EXPRESSION/EMBEDDED_NOTICE/EXPRESSION/EXPRESSION_USES_LANGUAGE/IDENTIFIER";
+  private static final String IDENTIFIER_EXPRESSION =
+      "/NOTICE/WORK/WORK_HAS_EXPRESSION/EMBEDDED_NOTICE/EXPRESSION//EXPRESSION_TITLE[starts-with(../EXPRESSION_USES_LANGUAGE/IDENTIFIER, 'ENG' )]";
 
-  public void retrieveDataToJson(String inputFilePath) throws Exception {
+  private final XPathFactory xPathFactory;
 
+  @Autowired
+  public XmlDataExtractor(XPathFactory xPathFactory) {
+    this.xPathFactory = xPathFactory;
+  }
+
+  @SneakyThrows
+  public void retrieveDataToJson(String inputFilePath) {
     File inputFile = new File(inputFilePath);
-    DataContainer dataContainer = retrieveDataFromFile(inputFile);
+    Document document = getDocument(inputFile);
+    DataContainer dataContainer = retrieveDataFromFile(document);
     saveDataAsJson(dataContainer);
   }
 
-  private DataContainer retrieveDataFromFile(File inputFile) throws Exception {
+  private DataContainer retrieveDataFromFile(Document document) {
 
-    String creationDate = retrieveCreationDate(inputFile);
-    String modificationDate = retrieveModificationDate(inputFile);
-    String title = retrieveTitle(inputFile);
+    String creationDate = retrieveCreationDate(document);
+    String modificationDate = retrieveModificationDate(document);
+    String expressionTitle = retrieveTitle(document);
 
-    DataContainer dataContainer = new DataContainer();
-    dataContainer.setCreationDate(creationDate);
-    dataContainer.setExpressionTitle(title);
-    dataContainer.setModificationDate(modificationDate);
+    DataContainer dataContainer = DataContainer.builder()
+        .creationDate(creationDate)
+        .modificationDate(modificationDate)
+        .expressionTitle(expressionTitle)
+        .build();
 
     System.out.println(dataContainer.toString());
 
@@ -49,60 +58,32 @@ public class XmlDataExtractor {
   }
 
   @SuppressWarnings("Duplicates")
-  private String retrieveCreationDate(File file) throws Exception {
-
-    Document doc = getDocument(file);
-    XPath xPath = XPathFactory.newInstance().newXPath();
-
+  @SneakyThrows
+  private String retrieveCreationDate(Document doc) {
+    XPath xPath = xPathFactory.newXPath();
     return (String) xPath.compile(CREATION_DATE_EXPRESSION).evaluate(doc, XPathConstants.STRING);
   }
 
   @SuppressWarnings("Duplicates")
-  private String retrieveModificationDate(File file) throws Exception {
-
-    Document doc = getDocument(file);
-    XPath xPath = XPathFactory.newInstance().newXPath();
-
+  @SneakyThrows
+  private String retrieveModificationDate(Document doc) {
+    XPath xPath = xPathFactory.newXPath();
     return (String) xPath.compile(MODIFICATION_DATE_EXPRESSION).evaluate(doc, XPathConstants.STRING);
   }
 
   /**
    * I have found 2 ways how to do it
    */
-  private String retrieveTitle(File file) throws Exception {
+  @SneakyThrows
+  private String retrieveTitle(Document doc) {
 
-    Document doc = getDocument(file);
-    XPath xPath = XPathFactory.newInstance().newXPath();
+    XPath xPath = xPathFactory.newXPath();
+    NodeList identifierNodes = (NodeList) xPath.compile(IDENTIFIER_EXPRESSION).evaluate(doc, XPathConstants.NODESET);
     String title = null;
 
-//    String expression = "NOTICE/WORK/WORK_HAS_EXPRESSION";
-//    NodeList nodes = (NodeList) xPath.compile(expression).evaluate(doc, XPathConstants.NODESET);
-//    for (int i = 0; i < nodes.getLength(); i++) {
-//      Node item = nodes.item(i);
-//      String langIdentifierExpression = "EMBEDDED_NOTICE/EXPRESSION/EXPRESSION_USES_LANGUAGE/IDENTIFIER";
-//      String identifier = (String) xPath.compile(langIdentifierExpression).evaluate(item, XPathConstants.STRING);
-//
-//      if (identifier.equalsIgnoreCase("eng")) {
-//        String titleExpression = "EMBEDDED_NOTICE/EXPRESSION/EXPRESSION_TITLE";
-//        title = (String) xPath.compile(titleExpression).evaluate(item, XPathConstants.STRING);
-//        System.out.println(title.trim());
-//      }
-//    }
-
-    NodeList identifierNodes = (NodeList) xPath.compile(IDENTIFIER_EXPRESSION).evaluate(doc, XPathConstants.NODESET);
-
-    for (int i = 0; i < identifierNodes.getLength(); i++) {
-
-      Node item = identifierNodes.item(i);
-      String identifier = item.getTextContent();
-
-      if (identifier.equalsIgnoreCase("eng")) {
-
-        //MAYBE EXISTS BETTER WAY RO GET SECOND PARENT?
-        item = item.getParentNode().getParentNode();
-        String titleExpression = "EXPRESSION_TITLE/VALUE";
-        title = (String) xPath.compile(titleExpression).evaluate(item, XPathConstants.STRING);
-      }
+    if (identifierNodes.getLength() != 0) {
+      Node item = identifierNodes.item(0);
+      title = item.getTextContent();
     }
 
     if (StringUtils.isEmpty(title)) {
@@ -112,7 +93,8 @@ public class XmlDataExtractor {
     return title.trim();
   }
 
-  private Document getDocument(File file) throws ParserConfigurationException, SAXException, IOException {
+  @SneakyThrows
+  private Document getDocument(File file) {
     DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
     DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
     Document doc = dBuilder.parse(file);
@@ -120,14 +102,16 @@ public class XmlDataExtractor {
     return doc;
   }
 
-  private void saveDataAsJson(DataContainer dataContainer) throws FileNotFoundException {
+  @SneakyThrows
+  private void saveDataAsJson(DataContainer dataContainer) {
 
     File jsonFile = createJsonFile();
     Gson gson = new Gson();
-    PrintWriter printWriter = new PrintWriter(jsonFile);
-    gson.toJson(dataContainer, printWriter);
-    printWriter.flush();
-    printWriter.close();
+
+    try (PrintWriter printWriter = new PrintWriter(jsonFile)) {
+      gson.toJson(dataContainer, printWriter);
+      printWriter.flush();
+    }
   }
 
   private File createJsonFile() {

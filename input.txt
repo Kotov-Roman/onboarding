@@ -20,4 +20,7 @@
       <nickname>jazz</nickname>
       <marks>90</marks>
    </student>
+   <?LALA?>
+   <?LALA?>
+   <?LALA?>
 </class>

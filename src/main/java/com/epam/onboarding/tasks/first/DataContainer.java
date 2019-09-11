@@ -1,5 +1,8 @@
 package com.epam.onboarding.tasks.first;
 
+import lombok.Builder;
+
+@Builder
 public class DataContainer {
 
   private String creationDate;
