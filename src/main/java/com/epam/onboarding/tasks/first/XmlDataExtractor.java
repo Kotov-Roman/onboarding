@@ -40,7 +40,7 @@ public class XmlDataExtractor {
     saveDataAsJson(dataContainer);
   }
 
-  private DataContainer retrieveDataFromFile(Document document) {
+   DataContainer retrieveDataFromFile(Document document) {
 
     String creationDate = retrieveCreationDate(document);
     String modificationDate = retrieveModificationDate(document);
@@ -75,7 +75,7 @@ public class XmlDataExtractor {
    * I have found 2 ways how to do it
    */
   @SneakyThrows
-  private String retrieveTitle(Document doc) {
+   String retrieveTitle(Document doc) {
 
     XPath xPath = xPathFactory.newXPath();
     NodeList identifierNodes = (NodeList) xPath.compile(IDENTIFIER_EXPRESSION).evaluate(doc, XPathConstants.NODESET);
@@ -94,7 +94,7 @@ public class XmlDataExtractor {
   }
 
   @SneakyThrows
-  private Document getDocument(File file) {
+   Document getDocument(File file) {
     DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
     DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
     Document doc = dBuilder.parse(file);
@@ -103,7 +103,7 @@ public class XmlDataExtractor {
   }
 
   @SneakyThrows
-  private void saveDataAsJson(DataContainer dataContainer) {
+   void saveDataAsJson(DataContainer dataContainer) {
 
     File jsonFile = createJsonFile();
     Gson gson = new Gson();
@@ -114,7 +114,7 @@ public class XmlDataExtractor {
     }
   }
 
-  private File createJsonFile() {
+   File createJsonFile() {
 
     String fileSeparator = System.getProperty("file.separator");
     String relativePath = "tmp" + fileSeparator + "result.json";
