@@ -33,3 +33,6 @@ build/
 **/document.xml
 **/notice.xml
 **/result.xml
+**/src/test/resources
+**/src/main/resources
+**/tmp

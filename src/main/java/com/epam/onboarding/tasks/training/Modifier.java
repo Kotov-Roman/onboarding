@@ -1,4 +1,4 @@
-package com.epam.onboarding.tasks.second;
+package com.epam.onboarding.tasks.training;
 
 import java.io.File;
 import java.io.FileNotFoundException;

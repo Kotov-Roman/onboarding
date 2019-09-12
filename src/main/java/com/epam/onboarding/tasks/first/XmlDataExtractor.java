@@ -8,6 +8,7 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
+import javax.xml.xpath.XPathExpression;
 import javax.xml.xpath.XPathFactory;
 import lombok.SneakyThrows;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -26,22 +27,30 @@ public class XmlDataExtractor {
       "/NOTICE/WORK/WORK_HAS_EXPRESSION/EMBEDDED_NOTICE/EXPRESSION//EXPRESSION_TITLE[starts-with(../EXPRESSION_USES_LANGUAGE/IDENTIFIER, 'ENG' )]";
 
   private final XPathFactory xPathFactory;
+  private final DocumentBuilderFactory documentBuilderFactory;
 
   @Autowired
-  public XmlDataExtractor(XPathFactory xPathFactory) {
+  public XmlDataExtractor(XPathFactory xPathFactory, DocumentBuilderFactory documentBuilderFactory) {
     this.xPathFactory = xPathFactory;
+    this.documentBuilderFactory = documentBuilderFactory;
+  }
+
+  public void retrieveDataToJsonFile(String inputFilePath, String outputFilePath) {
+    File jsonFile = createFile(outputFilePath);
+    File inputFile = new File(inputFilePath);
+    retrieveDataToJsonFile(inputFile, jsonFile);
+  }
+
+  public void retrieveDataToJsonFile(File inputFile, File outputFile) {
+//    Document document = getDocument(inputFile);
+    DataContainer dataContainer = retrieveDataFromFile(inputFile);
+    saveDataAsJson(dataContainer, outputFile);
   }
 
   @SneakyThrows
-  public void retrieveDataToJson(String inputFilePath) {
-    File inputFile = new File(inputFilePath);
+  DataContainer retrieveDataFromFile(File inputFile) {
+
     Document document = getDocument(inputFile);
-    DataContainer dataContainer = retrieveDataFromFile(document);
-    saveDataAsJson(dataContainer);
-  }
-
-   DataContainer retrieveDataFromFile(Document document) {
-
     String creationDate = retrieveCreationDate(document);
     String modificationDate = retrieveModificationDate(document);
     String expressionTitle = retrieveTitle(document);
@@ -57,16 +66,14 @@ public class XmlDataExtractor {
     return dataContainer;
   }
 
-  @SuppressWarnings("Duplicates")
   @SneakyThrows
-  private String retrieveCreationDate(Document doc) {
+  String retrieveCreationDate(Document doc) {
     XPath xPath = xPathFactory.newXPath();
     return (String) xPath.compile(CREATION_DATE_EXPRESSION).evaluate(doc, XPathConstants.STRING);
   }
 
-  @SuppressWarnings("Duplicates")
   @SneakyThrows
-  private String retrieveModificationDate(Document doc) {
+  String retrieveModificationDate(Document doc) {
     XPath xPath = xPathFactory.newXPath();
     return (String) xPath.compile(MODIFICATION_DATE_EXPRESSION).evaluate(doc, XPathConstants.STRING);
   }
@@ -75,10 +82,10 @@ public class XmlDataExtractor {
    * I have found 2 ways how to do it
    */
   @SneakyThrows
-   String retrieveTitle(Document doc) {
-
+  String retrieveTitle(Document doc) {
     XPath xPath = xPathFactory.newXPath();
-    NodeList identifierNodes = (NodeList) xPath.compile(IDENTIFIER_EXPRESSION).evaluate(doc, XPathConstants.NODESET);
+    XPathExpression xPathExpression = xPath.compile(IDENTIFIER_EXPRESSION);
+    NodeList identifierNodes = (NodeList) xPathExpression.evaluate(doc, XPathConstants.NODESET);
     String title = null;
 
     if (identifierNodes.getLength() != 0) {
@@ -94,38 +101,33 @@ public class XmlDataExtractor {
   }
 
   @SneakyThrows
-   Document getDocument(File file) {
-    DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
-    DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+  Document getDocument(File file) {
+    DocumentBuilder dBuilder = documentBuilderFactory.newDocumentBuilder();
     Document doc = dBuilder.parse(file);
     doc.getDocumentElement().normalize();
     return doc;
   }
 
   @SneakyThrows
-   void saveDataAsJson(DataContainer dataContainer) {
-
-    File jsonFile = createJsonFile();
+  void saveDataAsJson(DataContainer dataContainer, File outputFile) {
+//    File jsonFile = createFile(outputFile);
     Gson gson = new Gson();
 
-    try (PrintWriter printWriter = new PrintWriter(jsonFile)) {
+    try (PrintWriter printWriter = new PrintWriter(outputFile)) {
       gson.toJson(dataContainer, printWriter);
       printWriter.flush();
     }
   }
 
-   File createJsonFile() {
-
-    String fileSeparator = System.getProperty("file.separator");
-    String relativePath = "tmp" + fileSeparator + "result.json";
-    File file = new File(relativePath);
+  File createFile(String filePath) {
+    File file = new File(filePath);
 
     try {
       if (file.createNewFile()) {
-        System.out.println(relativePath + " File Created in Project root directory");
+        System.out.println(filePath + " File Created in Project root directory");
       }
       else {
-        System.out.println("File " + relativePath + " already exists in the project root directory");
+        System.out.println("File " + filePath + " already exists in the project root directory");
       }
     } catch (IOException e) {
       e.printStackTrace();
