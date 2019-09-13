@@ -1,0 +1,1525 @@
+<?xml version="1.0" standalone="no"?><DOC><CONS.ACT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://formex.publications.europa.eu/schema/formex-04.00-20061031.xd">
+<INFO.CONSLEG CONSLEG.REF="1991L0674" START.DATE="20060905" LEG.VAL="DIR" PROD.SEQ="002.001.0" END.DATE="99999999" END="NONE" DATE.LAST.MOD="20060816"></INFO.CONSLEG>
+<INFO.PROD PRODUCER="ES" PROD.DATE="20061013" PROD.SYSTEM="CONSLEG.NEW"></INFO.PROD>
+<CONS.DOC><BIB.INSTANCE>
+<DOCUMENT.REF FILE="CL1991L0674EN0020010.0001.doc.xml"></DOCUMENT.REF>
+<DATE ISO="20060905">20060905</DATE>
+<LG.DOC>EN</LG.DOC>
+<PAGE.FIRST>1</PAGE.FIRST>
+<PAGE.SEQ>1</PAGE.SEQ>
+<PAGE.LAST>32</PAGE.LAST>
+<PAGE.TOTAL>32</PAGE.TOTAL></BIB.INSTANCE>
+<FAM.COMP LEG.VAL="DIR"><BIB.DATA><BIB.INSTANCE.CONS><DOCUMENT.REF.CONS><COLL>L</COLL>
+<NO.OJ>374</NO.OJ>
+<YEAR>1991</YEAR>
+<LG.OJ>EN</LG.OJ>
+<PAGE.FIRST>7</PAGE.FIRST>
+<PAGE.SEQ>1</PAGE.SEQ></DOCUMENT.REF.CONS><DATE ISO="19911231">19911231</DATE>
+<LG.DOC>EN</LG.DOC>
+<PAGE.FIRST>7</PAGE.FIRST>
+<PAGE.SEQ>1</PAGE.SEQ>
+<PAGE.LAST>31</PAGE.LAST>
+<PAGE.TOTAL>25</PAGE.TOTAL></BIB.INSTANCE.CONS>
+<NO.CELEX>391L0674</NO.CELEX>
+<DATE ISO="19911219">19911219</DATE>
+<TITLE><TI>
+<P><HT TYPE="UC">Council Directive</HT></P><P>of 19 December 1991</P><P>on the annual accounts and consolidated accounts of insurance undertakings</P><P>(91/674/EEC)</P></TI></TITLE></BIB.DATA>
+<GR.MOD.ACT><MOD.ACT EXISTS="YES" LEG.VAL="REG" TYPE="EURO">
+<BIB.DATA><BIB.INSTANCE.CONS><DOCUMENT.REF.CONS><COLL>L</COLL>
+<NO.OJ>162</NO.OJ>
+<YEAR>1997</YEAR>
+<LG.OJ>EN</LG.OJ>
+<PAGE.FIRST>1</PAGE.FIRST>
+<PAGE.SEQ>1</PAGE.SEQ></DOCUMENT.REF.CONS><DATE ISO="19970619">19970619</DATE>
+<LG.DOC>EN</LG.DOC>
+<PAGE.FIRST>1</PAGE.FIRST>
+<PAGE.SEQ>1</PAGE.SEQ>
+<PAGE.LAST>3</PAGE.LAST>
+<PAGE.TOTAL>3</PAGE.TOTAL></BIB.INSTANCE.CONS>
+<NO.CELEX>397R1103</NO.CELEX>
+<DATE ISO="19970617">19970617</DATE>
+<TITLE><TI>
+<P><HT TYPE="UC">Council Regulation</HT> (EC) No 1103/97</P><P>of 17 June 1997</P><P>on certain provisions relating to the introduction of the euro</P></TI></TITLE></BIB.DATA></MOD.ACT>
+<MOD.ACT EXISTS="YES" LEG.VAL="DIR" TYPE="MOD"><BIB.DATA><BIB.INSTANCE.CONS><DOCUMENT.REF.CONS><COLL>L</COLL>
+<NO.OJ>178</NO.OJ>
+<YEAR>2003</YEAR>
+<LG.OJ>EN</LG.OJ>
+<PAGE.FIRST>16</PAGE.FIRST>
+<PAGE.SEQ>1</PAGE.SEQ></DOCUMENT.REF.CONS><DATE ISO="20030717">20030717</DATE>
+<LG.DOC>EN</LG.DOC>
+<PAGE.FIRST>16</PAGE.FIRST>
+<PAGE.SEQ>1</PAGE.SEQ>
+<PAGE.LAST>22</PAGE.LAST>
+<PAGE.TOTAL>7</PAGE.TOTAL></BIB.INSTANCE.CONS>
+<NO.CELEX>303L0051</NO.CELEX>
+<DATE ISO="20030618">20030618</DATE>
+<TITLE><TI>
+<P><HT TYPE="UC">Directive 2003/51/EC of the European Parliament and of the Council</HT></P><P>of 18 June 2003</P><P>amending Directives 78/660/EEC, 83/349/EEC, 86/635/EEC and 91/674/EEC on the annual and consolidated accounts of certain types of companies, banks and other financial institutions and insurance undertakings</P><P>(Text with EEA relevance)</P></TI></TITLE></BIB.DATA></MOD.ACT>
+<MOD.ACT EXISTS="YES" LEG.VAL="DIR" TYPE="MOD"><BIB.DATA><BIB.INSTANCE.CONS><DOCUMENT.REF.CONS><COLL>L</COLL>
+<NO.OJ>224</NO.OJ>
+<YEAR>2006</YEAR>
+<LG.OJ>EN</LG.OJ>
+<PAGE.FIRST>1</PAGE.FIRST>
+<PAGE.SEQ>1</PAGE.SEQ></DOCUMENT.REF.CONS>
+<EEA></EEA>
+<DATE ISO="20060816">20060816</DATE>
+<LG.DOC>EN</LG.DOC>
+<PAGE.FIRST>1</PAGE.FIRST>
+<PAGE.SEQ>1</PAGE.SEQ>
+<PAGE.LAST>7</PAGE.LAST>
+<PAGE.TOTAL>7</PAGE.TOTAL>
+<NO.DOC FORMAT="YN" TYPE="OJ"><NO.CURRENT>46</NO.CURRENT>
+<YEAR>2006</YEAR>
+<COM>EC</COM></NO.DOC></BIB.INSTANCE.CONS>
+<NO.CELEX>306L0046</NO.CELEX>
+<DATE ISO="20060614">20060614</DATE>
+<TITLE><TI>
+<P><HT TYPE="UC">Directive 2006/46/EC of the European Parliament and of the Council</HT></P><P>of <DATE ISO="20060614">14 June 2006</DATE></P><P>amending Council Directives 78/660/EEC on the annual accounts of certain types of companies, 83/349/EEC on consolidated accounts, 86/635/EEC on the annual accounts and consolidated accounts of banks and other financial institutions and 91/674/EEC on the annual accounts and consolidated accounts of insurance undertakings</P><P>(Text with EEA relevance)</P></TI></TITLE></BIB.DATA></MOD.ACT></GR.MOD.ACT></FAM.COMP>
+<TITLE><TI>
+<P><HT TYPE="UC">Council Directive</HT></P><P>of 19 December 1991</P><P>on the annual accounts and consolidated accounts of insurance undertakings</P><P>(91/674/EEC)</P></TI></TITLE>
+<PREAMBLE><PREAMBLE.INIT>THE COUNCIL OF THE EUROPEAN COMMUNITIES,</PREAMBLE.INIT>
+<GR.VISA><VISA>Having regard to the Treaty establishing the European Economic Community, and in particular Article 54 thereof,</VISA>
+<VISA>Having regard to the proposal from the Commission<NOTE NOTE.ID="E0001" NUMBERING="ARAB" TYPE="FOOTNOTE"><P><REF.DOC.OJ PAGE.FIRST="1" COLL="C" DATE.PUB="19870901" NO.OJ="131">OJ No C 131, 18. 4. 1987, p. 1</REF.DOC.OJ>.</P></NOTE>,</VISA>
+<VISA>In cooperation with the European Parliament<NOTE NOTE.ID="E0002" NUMBERING="ARAB" TYPE="FOOTNOTE"><P><REF.DOC.OJ PAGE.FIRST="93" COLL="C" DATE.PUB="19890901" NO.OJ="096">OJ No C 96, 17. 4. 1989, p. 93</REF.DOC.OJ>; and OJ No C 326, 16. 12. 1991.</P></NOTE>,</VISA>
+<VISA>Having regard to the opinion of the Economic and Social Committee<NOTE NOTE.ID="E0003" NUMBERING="ARAB" TYPE="FOOTNOTE"><P><REF.DOC.OJ PAGE.FIRST="13" COLL="C" DATE.PUB="19870901" NO.OJ="319">OJ No C 319, 30. 11. 1987, p. 13</REF.DOC.OJ>.</P></NOTE>,</VISA></GR.VISA>
+<GR.CONSID><CONSID><P><P>Whereas Article 54 (3) (g) of the Treaty requires coordination to the necessary extent of the safeguards which, for the protection of the interests of members and others, are required by Member States of companies and firms within the meaning of the second paragraph of Article 58 of the Treaty, with a view to making such safeguards equivalent throughout the Community;</P></P></CONSID>
+<CONSID><P>Whereas Council Directive 78/660/EEC of 25 July 1978 based on Article 54 (3) (g) of the Treaty on the annual accounts of certain types of companies<NOTE NOTE.ID="E0004" NUMBERING="ARAB" TYPE="FOOTNOTE"><P><REF.DOC.OJ PAGE.FIRST="11" COLL="L" DATE.PUB="19780901" NO.OJ="222">OJ No L 222, 14. 8. 1978, p. 11</REF.DOC.OJ>.</P></NOTE>, as last amended by Directive 90/605/EEC<NOTE NOTE.ID="E0005" NUMBERING="ARAB" TYPE="FOOTNOTE"><P><REF.DOC.OJ PAGE.FIRST="60" COLL="L" DATE.PUB="19900901" NO.OJ="317">OJ No L 317, 16. 11. 1990, p. 60</REF.DOC.OJ>.</P></NOTE>, need not be applied to insurance companies, hereinafter referred to as <QUOT.START CODE="2018" ID="QS0001" REF.END="QE0001"></QUOT.START>insurance undertakings<QUOT.END CODE="2019" ID="QE0001" REF.START="QS0001"></QUOT.END>, pending further coordination; whereas, in view of the major importance of insurance undertakings in the Community, such coordination cannot be delayed any longer following the implementation of Directive 78/660/EEC;</P></CONSID>
+<CONSID><P>Whereas Council Directive 83/349/EEC of 13 June 1983 based on Article 54 (3) (g) of the Treaty on consolidated accounts<NOTE NOTE.ID="E0006" NUMBERING="ARAB" TYPE="FOOTNOTE"><P><REF.DOC.OJ PAGE.FIRST="1" COLL="L" DATE.PUB="19830901" NO.OJ="193">OJ No L 193, 18. 7. 1983, p. 1</REF.DOC.OJ>.</P></NOTE>, as last amended by Directive 90/605/EEC, provides for derogations for insurance undertakings only until the expiry of the deadline imposed for the application of this Directive; whereas this Directive must therefore also include provisions specific to insurance undertakings in respect of consolidated accounts;</P></CONSID>
+<CONSID><P>Whereas such coordination is also urgently required because insurance undertakings operate across borders; whereas for creditors, debtors, members, policyholders and their advisers and for the general public, improved comparability of the annual accounts and consolidated accounts of such undertakings is of crucial importance;</P></CONSID>
+<CONSID><P>Whereas in the Member States insurance undertakings of different legal forms are in competition with each other; whereas undertakings engaged in the business of direct insurance customarily engage in the business of reinsurance as well and are therefore in competition with specialist reinsurance undertakings; whereas it is therefore appropriate not to confine coordination to the legal forms covered by Directive 78/660/EEC, but to choose a scope that corresponds to that of Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the taking up and pursuit of the business of direct insurance other than life assurance<NOTE NOTE.ID="E0007" NUMBERING="ARAB" TYPE="FOOTNOTE"><P><REF.DOC.OJ PAGE.FIRST="3" COLL="L" DATE.PUB="19730901" NO.OJ="228">OJ No L 228, 16. 8. 1973, p. 3</REF.DOC.OJ>.</P></NOTE>, as last amended by Directive 90/618/EEC<NOTE NOTE.ID="E0008" NUMBERING="ARAB" TYPE="FOOTNOTE"><P><REF.DOC.OJ PAGE.FIRST="44" COLL="L" DATE.PUB="19900901" NO.OJ="330">OJ No L 330, 29. 11. 1990, p. 44</REF.DOC.OJ>.</P></NOTE>, and to that of Council Directive 79/267/EEC of 5 March 1979 on the coordination of laws, regulations and administrative provisions relating to the taking up and pursuit of the business of direct life assurance<NOTE NOTE.ID="E0009" NUMBERING="ARAB" TYPE="FOOTNOTE"><P><REF.DOC.OJ PAGE.FIRST="1" COLL="L" DATE.PUB="19790901" NO.OJ="063">OJ No L 63, 13. 3. 1979, p. 1</REF.DOC.OJ>.</P></NOTE>, as last amended by Directive 90/619/EEC<NOTE NOTE.ID="E0010" NUMBERING="ARAB" TYPE="FOOTNOTE"><P><REF.DOC.OJ PAGE.FIRST="50" COLL="L" DATE.PUB="19900901" NO.OJ="330">OJ No L 330, 29. 11. 1990, p. 50</REF.DOC.OJ>.</P></NOTE>, but which also includes certain undertakings that are excluded from the scope of those Directives and companies and firms which are reinsurance undertakings;</P></CONSID>
+<CONSID><P>Whereas, although in view of the specific characteristics of insurance undertakings it would appear appropriate to propose a separate Directive on the annual accounts and consolidated accounts of such undertakings, that does not necessarily require the establishment of a set of standards different from those of Directive 78/660/EEC and 83/349/EEC; whereas such separate standards would be neither appropriate nor consistent with the principles underlying the coordination of company law since, given the important position they occupy in the Community economy, insurance undertakings cannot be excluded from a framework of rules devised for undertakings generally; whereas, for this reason, only the particular characteristics of insurance undertakings have been taken into account and this Directive deals only with derogations from the rules laid down in Directives 78/660/EEC and 83/349/EEC;</P></CONSID>
+<CONSID><P>Whereas there are major differences in the structure and content of the balance sheets of insurance undertakings in different Member States; whereas this Directive must therefore lay down the same structure and the same item designations for the balance sheets of all Community insurance undertakings;</P></CONSID>
+<CONSID><P>Whereas, if annual accounts and consolidated accounts are to be comparable, a number of basic questions regarding the disclosure of certain transactions in the balance sheet must be settled;</P></CONSID>
+<CONSID><P>Whereas, in the interests of greater comparability, it is also necessary that the content of the various balance sheet items be determined precisely;</P></CONSID>
+<CONSID><P>Whereas it may be useful to distinguish between the commitments of the insurer and those of the reinsurer by showing in the assets the reinsurer's share of technical provisions as an asset;</P></CONSID>
+<CONSID><P>Whereas the structure of the profit and loss account should also be determined and certain items in it should be defined;</P></CONSID>
+<CONSID><P>Whereas, given the specific nature of the insurance industry, it may be useful for unrealized gains and losses to be dealt with in the profit and loss account;</P></CONSID>
+<CONSID><P>Whereas the comparability of figures in the balance sheet and profit and loss account also depends basically on the values at which assets and liabilities are shown in the balance sheet; whereas for a proper understanding of the financial situation of an insurance undertaking the current value of investments as well as their value based upon the principle of purchase price or production cost must be disclosed; whereas, however, the compulsory disclosure of the current value of investments, at least in the notes on the accounts, is prescribed solely for purposes of comparability and transparency and is not intended to lead to changes in the tax treatment of insurance undertakings;</P></CONSID>
+<CONSID><P>Whereas in the calculation of life assurance provisions use may be made of actuarial methods customarily applied on the market or accepted by the insurance-monitoring authorities; whereas those methods may be implemented by any actuary or expert in accordance with the conditions which may be laid down in national law and with due regard for the actuarial principles recognized in the framework of the present and future coordination of the fundamental rules for the prudential and financial monitoring of direct life assurance business;</P></CONSID>
+<CONSID><P>Whereas, in the calculation of the provision for claims outstanding, on the one hand, any implicit discounting or deduction should be prohibited, and, on the other hand, precise conditions for recourse to explicit discounting or deduction should be defined, for the sake of prudence and transparency;</P></CONSID>
+<CONSID><P>Whereas, in view of the special nature of insurance undertakings, certain changes are necessary with regard to the notes on annual accounts and on consolidated accounts;</P></CONSID>
+<CONSID><P>Whereas, in line with the intention of covering all insurance undertakings that come within the scope of Directive 73/239/EEC and 79/267/EEC as well as certain others, derogations such as those for small and medium-sized insurance undertakings in Directive 78/660/EEC are not provided for, but certain small mutual associations which are excluded from the scope of Directives 73/239/EEC and 79/267/EEC should not be covered;</P></CONSID>
+<CONSID><P>Whereas for the same reasons the scope allowed Member States pursuant to Directive 83/349/EEC to exempt parent undertakings of groups from compulsory consolidation if the undertakings to be consolidated do not together exceed a certain size has not been extended to insurance undertakings;</P></CONSID>
+<CONSID><P>Whereas in view of its particular nature special provisions are needed for the association of underwriters known as Lloyd's;</P></CONSID>
+<CONSID><P>Whereas the provisions of this Directive also apply to the consolidated accounts drawn up by a parent undertaking which is a financial holding company where its subsidiary undertakings are eiher exclusively or mainly insurance undertakings;</P></CONSID>
+<CONSID><P>Whereas the examination of problems which arise in connection with this Directive, in particular regarding its application, requires cooperation by representatives of the Member States and the Commission in a contact committee; whereas, in order to avoid the proliferation of such committees, it is desirable that such cooperation take place in the committee provided for in Article 52 of Directive 78/660/EEC; whereas, however, when examining problems concerning insurance undertakings, the committee must be appropriately constituted;</P></CONSID>
+<CONSID><P>Whereas, in view of the complexity of the matter, the insurance undertakings covered by this Directive must be allowed an appropriate period to implement its provisions; whereas that period must be extended to allow the necessary adjustments to be made concerning, on the one hand, the association of underwriters known as Lloyd's and, on the other, those undertakings which, when this Directive becomes applicable, show their investments at historical cost;</P></CONSID>
+<CONSID><P>Whereas provision should be made for the review of certain provisions of this Directive after five years' experience of its application, in the light of the aims of greater transparency and harmonization.</P></CONSID></GR.CONSID>
+<PREAMBLE.FINAL>HAS ADOPTED THIS DIRECTIVE:</PREAMBLE.FINAL></PREAMBLE>
+<ENACTING.TERMS><DIVISION>
+<TITLE>
+  <TI>
+  <P>SECTION 1</P>
+  </TI>
+  <STI>
+    <P>Preliminary provisions and scope</P>
+  </STI>
+</TITLE>
+<ARTICLE IDENTIFIER="001"><TI.ART>Article 1</TI.ART>
+
+<PARAG IDENTIFIER="001.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>Articles 2, 3, 4(1), (3) to (6), Articles 6, 7, 13, 14, 15(3) and (4), Articles 16 to 21, 29
+  to 35, 37 to 41, 42, 42a to 42f, 43 (1), points 1 to 7b and 9 to 14, 45(1), 46(1) and (2), 46a, 48 to 50, 50a, 50b, 50c, 51(1),
+  51a, 56 to 59, 60a, 61 and 61a of Directive 78/660/EEC shall apply to the undertakings mentioned in Article 2 of this Directive,
+  except where this Directive provides otherwise.
+  <?CLG.MDFC ID="C002001M001000" IDREF="O002001M001000"?> Articles 46, 47, 48, 51 and
+  53 of this Directive shall not apply in respect of assets and liabilities that are valued in accordance with Section 7a of Directive
+  78/660/EEC.</ALINEA></PARAG>
+<PARAG IDENTIFIER="001.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>Where reference is made in Directives 78/660/EEC and 83/349/EEC to Articles 9, 10 and 10a (balance sheet) or to Articles 22 to 26 (profit and loss account) of Directive 78/660/EEC, such references shall be deemed to be references to Article 6 (balance sheet) or to Article 34 (profit and loss account) of this Directive as appropriate.</ALINEA></PARAG>
+<?CLG.MDFC ID="C001001M001000" IDREF="O001001M001000"?>
+<PARAG IDENTIFIER="001.003"><NO.PARAG>3.</NO.PARAG>
+<ALINEA>References in Directives 78/660/EEC and 83/349/EEC to Articles 31 to 42 of Directive 78/660/EEC shall be deemed to be references to those Articles, taking account of Articles 45 to 62 of this Directive.</ALINEA></PARAG>
+<PARAG IDENTIFIER="001.004"><NO.PARAG>4.</NO.PARAG>
+<ALINEA>Where the aforementioned provisions of Directive 78/660/EEC relate to balance-sheet items for which this Directive lays down no equivalent, they shall be deemed to be references to the items in Article 6 of this Directive where the corresponding assets and liabilities items are listed.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="002"><TI.ART>Article 2</TI.ART>
+<PARAG IDENTIFIER="002.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA><P>The coordination measures prescribed by this Directive shall apply to companies and firms within the meaning of the second paragraph of Article 58 of the Treaty which are:</P><LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT>undertakings within the meaning of Article 1 of Directive 73/239/EEC, excluding those mutual associations which are excluded from the scope of that Directive by virtue of Article 3 thereof but including those bodies referred to in Article 4 (a), (b), (c) and (e) thereof except where their activity does not consist wholly or mainly in carrying on insurance business;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT>undertakings within the meaning of Article 1 of Directive 79/267/EEC, excluding those bodies and mutual associations referred to in Articles 2 (2) and (3) and 3 of that Directive; or</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(c)</NO.P><TXT>undertakings carrying on reinsurance business.</TXT></NP></ITEM></LIST></ALINEA>
+<ALINEA>In this Directive, such undertakings shall be referred to as insurance undertakings.</ALINEA></PARAG>
+<PARAG IDENTIFIER="002.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>Funds of a group pension fund within the meaning of Article 1 (2) (c) and (d) of Directive 79/267/EEC which an insurance undertaking administers in its own name but on behalf of third parties must be shown in the balance sheet if the undertaking acquires legal title to the assets concerned. The total amount of such assets and liabilities shall be shown separately or in the notes on the accounts, broken down according to the various assets and liabilities items. However, the Member States may permit the disclosure of such funds as off-balance-sheet items provided there are special rules whereby such funds can be excluded from the assets available for distribution in the event of the winding up of an insurance undertaking (or similar proceedings).</ALINEA>
+<ALINEA>Assets acquired in the name of and on behalf of third parties must not be shown in the balance sheet.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="003"><TI.ART>Article 3</TI.ART>
+<ALINEA>Those provisions of this Directive which relate to life assurance shall apply <HT TYPE="ITALIC">mutatis mutandis</HT> to insurance undertakings which underwrite only health insurance and which do so exclusively or principally according to the technical principles of life assurance.</ALINEA>
+<ALINEA>Member States may apply the first paragraph to health insurance underwritten by joint undertakings according to the technical principles of life assurance where such activity is significant.</ALINEA></ARTICLE>
+
+<ARTICLE IDENTIFIER="004"><TI.ART>Article 4</TI.ART>
+<PARAG IDENTIFIER="004.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>This Directive shall apply to the association of underwriters known as Lloyd's. For the purpose of this Directive both Lloyd's and Lloyd's syndicates shall be deemed to be insurance undertakings.</ALINEA></PARAG>
+<PARAG IDENTIFIER="004.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>By way of derogation from Article 65(1), Lloyd's shall prepare aggregate accounts instead of consolidated accounts required by Directive 83/349/EEC. Aggregate accounts shall be prepared by cumulation of all syndicate accounts.</ALINEA></PARAG></ARTICLE>
+<?CLG.MDFC ID="C001001M002000" IDREF="O001001M002000"?></DIVISION>
+<DIVISION><TITLE>
+<TI><P>SECTION 2</P></TI>
+<STI><P>General provisions concerning the balance sheet and the profit and loss account</P></STI></TITLE>
+<ARTICLE IDENTIFIER="005"><TI.ART>Article 5</TI.ART>
+<ALINEA><P>The combination of items under the conditions laid down in Article 4 (3) (a) or (b) of Directive 78/660/EEC shall be restricted in the case of insurance undertakings,</P><LIST TYPE="DASH"><ITEM>
+<P>as regards the balance sheet, to items preceded by arabic numerals, except for items concerning technical provisions, and</P></ITEM>
+<ITEM><P>as regards the profit and loss account, to items preceded by one or more lower-case letters, except for items I (1) and (4) and II (1), (5) and (6).</P></ITEM></LIST></ALINEA>
+<ALINEA>Combination shall be authorized only under the rules laid down by the Member States.</ALINEA></ARTICLE></DIVISION>
+<DIVISION><TITLE>
+<TI><P>SECTION 3</P></TI>
+<STI><P>Layout of the balance sheet</P></STI></TITLE>
+<ARTICLE IDENTIFIER="006"><TI.ART>Article 6</TI.ART>
+<ALINEA>The Member States shall prescribe the following layout for balance sheets:</ALINEA>
+<SUBDIV><TITLE>
+<TI><P>Assets</P></TI></TITLE>
+<ALINEA><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>A.</NO.P><TXT>Subscribed capital unpaid</TXT></NP></TI></TITLE>
+<P>showing separately called-up capital (unless national law requires called-up capital to be included under liabilities, in which case capital called but not yet paid must be included as an asset either under A or under E (IV)).</P></GR.SEQ><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>B.</NO.P><TXT>Intangible assets</TXT></NP></TI></TITLE>
+<P>as described unter items B and C (I) of Article 9 of Directive 78/660/EEC, showing separately:</P>
+<LIST TYPE="DASH"><ITEM>
+<P>formation expenses, as defined by national law and in so far as national law permits their being shown as an asset (unless national law requires their disclosure in the notes on the accounts),</P></ITEM>
+<ITEM><P>goodwill, to the extent that it was acquired for valuable consideration (unless national law requires its disclosure in the notes on the accounts).</P></ITEM></LIST></GR.SEQ><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>C.</NO.P><TXT>Investments</TXT></NP></TI></TITLE>
+<LIST TYPE="ROMAN"><ITEM>
+<NP><NO.P>I.</NO.P><TXT>Land and buildings:</TXT>
+<P>showing separately land and buildings occupied by an insurance undertaking for its own activities (unless national law requires their disclosure in the notes on the accounts).</P></NP></ITEM>
+<ITEM><NP>
+<NO.P>II.</NO.P><TXT>Investments in affiliated undertakings and participating interests:</TXT>
+<P><LIST TYPE="ARAB"><ITEM>
+<NP><NO.P>1.</NO.P><TXT>Shares in affiliated undertakings.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>2.</NO.P><TXT>Debt securities issued by, and loans to, affiliated undertakings.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>3.</NO.P><TXT>Participating interests.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>4.</NO.P><TXT>Debt securities issued by, and loans to, undertakings with which an insurance undertaking is linked by virtue of a participating interest.</TXT></NP></ITEM></LIST></P></NP></ITEM>
+<ITEM><NP>
+<NO.P>III.</NO.P><TXT>Other financial investments:</TXT>
+<P><LIST TYPE="ARAB"><ITEM>
+<NP><NO.P>1.</NO.P><TXT>Shares and other variable-yield securities and units in unit trusts.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>2.</NO.P><TXT>Debt securities and other fixed-income securities.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>3.</NO.P><TXT>Participation in investment pools.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>4.</NO.P><TXT>Loans guaranteed by mortgages.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>5.</NO.P><TXT>Other loans.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>6.</NO.P><TXT>Deposits with credit institutions.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>7.</NO.P><TXT>Other.</TXT></NP></ITEM></LIST></P></NP></ITEM>
+<ITEM><NP>
+<NO.P>IV.</NO.P><TXT>Deposits with ceding undertakings.</TXT></NP></ITEM></LIST></GR.SEQ><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>D.</NO.P><TXT>Investments for the benefit of life-assurance policyholders who bear the investment risk</TXT></NP></TI></TITLE></GR.SEQ><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>E.</NO.P><TXT>Debtors</TXT></NP></TI></TITLE>
+<P>(Amounts owed by:</P>
+<LIST TYPE="DASH"><ITEM>
+<P>affiliated undertakings, and</P></ITEM>
+<ITEM><P>undertakings with which an insurance undertaking is linked by virtue of participating interests</P></ITEM></LIST>
+<P>shall be shown separately, as sub-items of items I, II and III).</P>
+<LIST TYPE="ROMAN"><ITEM>
+<NP><NO.P>I.</NO.P><TXT>Debtors arising out of direct insurance operations</TXT>
+<P><LIST TYPE="ARAB"><ITEM>
+<NP><NO.P>1.</NO.P><TXT>policyholders;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>2.</NO.P><TXT>intermediaries.</TXT></NP></ITEM></LIST></P></NP></ITEM>
+<ITEM><NP>
+<NO.P>II.</NO.P><TXT>Debtors arising out of reinsurance operations.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>III.</NO.P><TXT>Other debtors.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>IV.</NO.P><TXT>Subscribed capital called but not paid</TXT>
+<P>(unless national law requires that capital called but not paid be shown as an asset under A).</P></NP></ITEM></LIST></GR.SEQ><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>F.</NO.P><TXT>Other assets</TXT></NP></TI></TITLE>
+<LIST TYPE="ROMAN"><ITEM>
+<NP><NO.P>I.</NO.P><TXT>Tangible assets and stocks as listed under C (II) and D (I) in Article 9 of Directive 78/660/EEC, other than land and buildings, buildings under construction and deposits paid on land and buildings.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>II.</NO.P><TXT>Cash at bank and in hand.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>III.</NO.P><TXT>Own shares (with an indication of their nominal value or, in the absence of a nominal value, their accounting par value) to the extent that national law permits their being shown in the balance sheet.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>IV.</NO.P><TXT>Other.</TXT></NP></ITEM></LIST></GR.SEQ><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>G.</NO.P><TXT>Prepayments and accrued income</TXT></NP></TI></TITLE>
+<LIST TYPE="ROMAN"><ITEM>
+<NP><NO.P>I.</NO.P><TXT>Accrued interest and rent.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>II.</NO.P><TXT>Deferred acquisition costs (distinguishing those arising in non-life insurance and life-assurance business).</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>III.</NO.P><TXT>Other prepayments and accrued income.</TXT></NP></ITEM></LIST></GR.SEQ><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>H.</NO.P><TXT>Loss for the financial year</TXT></NP></TI></TITLE>
+<P>(unless national law requires it to be shown as a liability under A (VI)).</P></GR.SEQ></ALINEA></SUBDIV>
+<SUBDIV><TITLE>
+<TI><P>Liabilities</P></TI></TITLE>
+<ALINEA><TBL CLASS="GEN" NO.SEQ="001" COLS="3"><CORPUS>
+<ROW><CELL COL="1" COLSPAN="3"><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>A.</NO.P><TXT>Capital and reserves</TXT></NP></TI></TITLE>
+<LIST TYPE="ROMAN"><ITEM>
+<NP><NO.P>I.</NO.P><TXT>Subscribed capital or equivalent funds</TXT>
+<P>(unless national law requires called-up capital to be shown under this item. In that case, the amounts of subscribed capital and paid-up capital must be shown separately).</P></NP></ITEM>
+<ITEM><NP>
+<NO.P>II.</NO.P><TXT>Share premium account.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>III.</NO.P><TXT>Revaluation reserve.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>IV.</NO.P><TXT>Reserve.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>V.</NO.P><TXT>Profit or loss brought forward.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>VI.</NO.P><TXT>Profit or loss for the financial year</TXT>
+<P>(unless national law requires it to be shown as an asset under H or as a liability under I).</P></NP></ITEM></LIST></GR.SEQ></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>B.</NO.P><TXT>Subordinated liabilities</TXT></NP></TI></TITLE></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>C.</NO.P><TXT>Technical provisions</TXT></NP></TI></TITLE></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>1.</NO.GR.SEQ>
+<P>Provision for unearned premiums:</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>gross amount</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>reinsurance amount (-)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><IE></IE></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>2.</NO.GR.SEQ>
+<P>Life assurance provision:</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>gross amount (-)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>reinsurance amount (-)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><IE></IE></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>3.</NO.GR.SEQ>
+<P>Claims outstanding:</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>gross amount</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>reinsurance amount (-)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><IE></IE></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>4.</NO.GR.SEQ>
+<P>Provision for bonuses and rebates</P><P>(unless shown under 2):</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>gross amount</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>reinsurance amount (-)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><IE></IE></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>5.</NO.GR.SEQ>
+<P>Equalization provision</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>6.</NO.GR.SEQ>
+<P>Other technical provisions:</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>gross amount</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>reinsurance amount (-)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><IE></IE></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL></ROW></BLK></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>D.</NO.P><TXT>Technical provisions for life-assurance policies where the investment risk is borne by the policyholders:</TXT></NP></TI></TITLE></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>gross amount</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>reinsurance amount (-)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><IE></IE></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL></ROW></BLK></CORPUS></TBL></ALINEA>
+<ALINEA><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>E.</NO.P><TXT>Other provisions<?CLG.MDFC ID="C001001M003000" IDREF="O001001M003000"?></TXT></NP></TI></TITLE>
+<LIST TYPE="ARAB"><ITEM>
+<NP><NO.P>1.</NO.P><TXT>Provisions for pensions and similar obligations.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>2.</NO.P><TXT>Provisions for taxation.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>3.</NO.P><TXT>Other provisions.</TXT></NP></ITEM></LIST></GR.SEQ><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>F.</NO.P><TXT>Deposits received from reinsurers</TXT></NP></TI></TITLE></GR.SEQ><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>G.</NO.P><TXT>Creditors</TXT></NP></TI></TITLE>
+<P>(Amounts owed to:</P>
+<LIST TYPE="DASH"><ITEM>
+<P>affiliated undertakings, and</P></ITEM>
+<ITEM><P>undertakings with which an insurance undertaking is linked by virtue of a participating interest</P></ITEM></LIST>
+<P>shall be shown separately, as sub-items.)</P>
+<LIST TYPE="ROMAN"><ITEM>
+<NP><NO.P>I.</NO.P><TXT>Creditors arising out of direct insurance operations.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>II.</NO.P><TXT>Creditors arising out of reinsurance operations.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>III.</NO.P><TXT>Debenture loans, showing convertible loans separately.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>IV.</NO.P><TXT>Amounts owed to credit institutions.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>V.</NO.P><TXT>Other creditors, including tax and social security.</TXT></NP></ITEM></LIST></GR.SEQ><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>H.</NO.P><TXT>Accruals and deferred income</TXT></NP></TI></TITLE></GR.SEQ><GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>I.</NO.P><TXT>Profit for the financial year</TXT></NP></TI></TITLE>
+<P>(unless national law requires it to be shown as a liability under A (VI)).</P></GR.SEQ></ALINEA></SUBDIV></ARTICLE>
+<ARTICLE IDENTIFIER="007"><TI.ART>Article 7</TI.ART>
+<ALINEA>Article 14 of Directive 78/660/EEC shall not apply to commitments linked to insurance activities.</ALINEA></ARTICLE></DIVISION>
+<DIVISION><TITLE>
+<TI><P>SECTION 4</P></TI>
+<STI><P>Special provisions relating to certain balance-sheet items</P></STI></TITLE>
+<ARTICLE IDENTIFIER="008"><TI.ART>Article 8</TI.ART>
+<ALINEA>Article 15 (3) of Directive 78/660/EEC shall apply only to assets items B and C (I) and (II) as defined in Article 6 of this Directive. Any movements in these items shall be shown on the basis of the balance-sheet value at the beginning of the financial year.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="009"><TI.ART>Article 9</TI.ART>
+<STI.ART><P>Assets: <HT TYPE="ITALIC">item C (III) (2)</HT></P><P>Debt securities and other fixed-income securities</P></STI.ART>
+<PARAG IDENTIFIER="009.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>This item shall comprise negotiable debt securities and other fixed-income securities issued by credit institutions, by other undertakings or by public bodies, in so far as they are not covered by item C (II) (2) or (4).</ALINEA></PARAG>
+<PARAG IDENTIFIER="009.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>Securities bearing interest the rate of which varies in line with specific factors, for example the interest rate on the inter-bank market or on the Euromarket, shall also be regarded as debt securities and other fixed-income securities.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="010"><TI.ART>Article 10</TI.ART>
+<STI.ART><P>Assets: <HT TYPE="ITALIC">item C (III) (3)</HT></P><P>Participation in investment pools</P></STI.ART>
+<ALINEA>This item shall comprise shares held by an undertaking in joint investments constituted by several undertakings or pension funds, the management of which has been entrusted to one of those undertakings or to one of those pension funds.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="011"><TI.ART>Article 11</TI.ART>
+<STI.ART><P>Assets: <HT TYPE="ITALIC">items C (III) (4) and (5)</HT></P><P>Loans guaranteed by mortgages and other loans</P></STI.ART>
+<ALINEA>Loans to policyholders for which the policy is the main security shall be included under <QUOT.START CODE="2018" ID="QS0002" REF.END="QE0002"></QUOT.START>Other loans<QUOT.END CODE="2019" ID="QE0002" REF.START="QS0002"></QUOT.END> and their amount shall be disclosed in the notes on the accounts. Loans guaranteed by mortgage shall be shown as such even where they are also secured by insurance policies. Where the amount of <QUOT.START CODE="2018" ID="QS0003" REF.END="QE0003"></QUOT.START>Other loans<QUOT.END CODE="2019" ID="QE0003" REF.START="QS0003"></QUOT.END> not secured by policies is material, an appropriate breakdown shall be given in the notes on the accounts.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="012"><TI.ART>Article 12</TI.ART>
+<STI.ART><P>Assets: <HT TYPE="ITALIC">item C (III) (6)</HT></P><P>Deposits with credit institutions</P></STI.ART>
+<ALINEA>This item shall comprise sums the withdrawal of which is subject to a time restriction. Sums deposited with no such restriction shall be shown under F (II) even if they bear interest.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="013"><TI.ART>Article 13</TI.ART>
+<STI.ART><P>Assets: <HT TYPE="ITALIC">item C (III) (7)</HT></P><P>Other</P></STI.ART>
+<ALINEA>This item shall comprise those investments which are not covered by items C (III) (1) to (6). Where the amount of such investments is significant, they must be disclosed in the notes on the accounts.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="014"><TI.ART>Article 14</TI.ART>
+<STI.ART><P>Assets: <HT TYPE="ITALIC">item C (IV)</HT></P><P>Deposits with ceding undertakings</P></STI.ART>
+<ALINEA>In the balance sheet of an undertaking which accepts reinsurance this item shall comprise amounts, owed by the ceding undertakings and corresponding to guarantees, which are deposited with those ceding undertakings or with third parties or which are retained by those undertakings.</ALINEA>
+<ALINEA>These amounts may not be combined with other amounts owed by the ceding insurer to the reinsurer or set off against amounts owed by the reinsurer to the ceding insurer.</ALINEA>
+<ALINEA>Securities deposited with ceding undertakings or third parties which remain the property of the undertaking accepting reinsurance shall be entered in the latter's accounts as an investment, under the appropriate item.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="015"><TI.ART>Article 15</TI.ART>
+<STI.ART><P>Assets: <HT TYPE="ITALIC">item D</HT></P><P>Investments for the benefit of life assurance policyholders who bear the investment risk.</P></STI.ART>
+<ALINEA>In respect of life assurance this item shall comprise, on the one hand, investments the value of which is used to determine the value of or the return on policies relating to an investment fund and, on the other hand, investments serving as cover for liabilities which are determined by reference to an index. This item shall also comprise investments which are held on behalf of the members of a tontine and are intended for distribution among them.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="016"><TI.ART>Article 16</TI.ART>
+<STI.ART><P>Assets: <HT TYPE="ITALIC">item F (IV)</HT></P><P>Other</P></STI.ART>
+<ALINEA>This item shall comprise those assets which are not covered by items F (I), (II) and (III). Where such assets are material, they must be disclosed in the notes on the accounts.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="017"><TI.ART>Article 17</TI.ART>
+<STI.ART><P>Assets: <HT TYPE="ITALIC">item G (I)</HT></P><P>Accrued interest and rent</P></STI.ART>
+<ALINEA>This item shall comprise those items that represent interest and rent that have been earned up to the balance-sheet date but have not yet become receivable.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="018"><TI.ART>Article 18</TI.ART>
+<STI.ART><P>Assets: <HT TYPE="ITALIC">item G (II)</HT></P><P>Deferred acquisition costs</P></STI.ART>
+<PARAG IDENTIFIER="018.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>The costs of acquiring insurance policies shall be deferred in accordance with Article 18 of Directive 78/660/EEC in so far as such deferral is not prohibited by Member States.</ALINEA></PARAG>
+<PARAG IDENTIFIER="018.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>Member States may, however, permit the deduction of acquisition costs from unearned premiums in non-life-insurance business and their deduction by an actuarial method from mathematical reserves in life-assurance business. Where this method is used, the amounts deducted from the provisions must be indicated in the notes on the accounts.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="019"><TI.ART>Article 19</TI.ART>
+<STI.ART><P>Liabilities: <HT TYPE="ITALIC">item A (I)</HT></P><P>Subscribed capital or equivalent funds</P></STI.ART>
+<ALINEA>This item shall comprise all amounts, irrespective of their actual designations, which, in accordance with the legal structure of an insurance undertaking, are regarded under the national law of the Member State concerned as equity capital subscribed by the shareholders or other persons.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="020"><TI.ART>Article 20</TI.ART>
+<STI.ART><P>Liabilities: <HT TYPE="ITALIC">item A (IV)</HT></P><P>Reserves</P></STI.ART>
+<ALINEA>This item shall comprise all the types of reserves listed in Article 9 of Directive 78/660/EEC under liabilities item A (IV), as defined therein. The Member States may also require other types of reserves if necessary for insurance undertakings the legal structures of which are not covered by Directive 78/660/EEC.</ALINEA>
+<ALINEA>Reserves shall be shown separately, as sub-items of liabilities item A (IV), in the balance sheets of the insurance undertakings concerned, except for the revaluation reserve, which shall be shown as a liability under A (III).</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="021"><TI.ART>Article 21</TI.ART>
+<STI.ART><P>Liabilities: <HT TYPE="ITALIC">item B</HT></P><P>Subordinated liabilities</P></STI.ART>
+<ALINEA>Where it has been contractually agreed that, in the event of winding up or of bankruptcy, liabilities, whether or not represented by certificates, are to be repaid only after the claims of all other creditors have been met, the liabilities in question shall be shown under this item.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="022"><TI.ART>Article 22</TI.ART>
+<ALINEA>Where a Member States permits an undertaking's balance sheet to include funds the allocation of which either to policyholders or to shareholders has not been determined by the close of the financial year, those amounts shall be shown as liabilities under an item Ba (Fund for future appropriations).</ALINEA>
+<ALINEA>Variations in this item shall derive from an item II (12a) (Transfers to or from the fund for future appropriations) in the profit and loss account.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="023"><TI.ART>Article 23</TI.ART>
+<STI.ART><P>Liabilities: <HT TYPE="ITALIC">item C</HT></P><P>Technical provisions</P></STI.ART>
+<ALINEA>Article 20 of Directive 78/660/EEC shall apply to technical provisions, subject to Articles 24 to 30 of this Directive.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="024"><TI.ART>Article 24</TI.ART>
+<STI.ART><P>Liabilities: <HT TYPE="ITALIC">items C (1) (b), (2) (b), (3) (b), (4) (b) and (6) (b) and D (b)</HT></P><P>Reinsurance amounts</P></STI.ART>
+<PARAG IDENTIFIER="024.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>The reinsurance amounts shall comprise the actual or estimated amounts which, under contractual reinsurance arrangements, are deducted from the gross amounts of technical provisions.</ALINEA></PARAG>
+<PARAG IDENTIFIER="024.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>As regards the provision for unearned premiums, the reinsurance amounts shall be calculated according to the methods referred to in Article 57 or in accordance with the terms of the reinsurance policy.</ALINEA></PARAG>
+<PARAG IDENTIFIER="024.003"><NO.PARAG>3.</NO.PARAG>
+<ALINEA><P>Member States may require or permit the reinsurance amounts to be shown as assets. Where this option is exercised, those amounts shall be shown as assets under an item Da (Reinsurers' share of technical provisions), subdivided as follows:</P><LIST TYPE="ARAB"><ITEM>
+<NP><NO.P>1.</NO.P><TXT>Provision for unearned premiums</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>2.</NO.P><TXT>Life assurance provision</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>3.</NO.P><TXT>Claims outstanding</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>4.</NO.P><TXT>Provisions for bonuses and rebates (unless shown under 2)</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>5.</NO.P><TXT>Other technical provisions</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>6.</NO.P><TXT>Technical provisions for life-assurance policies where the investment risk is borne by the policyholders.</TXT></NP></ITEM></LIST></ALINEA>
+<ALINEA>Notwithstanding Article 5, these items shall not be combined.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="025"><TI.ART>Article 25</TI.ART>
+<STI.ART><P>Liabilities: <HT TYPE="ITALIC">item C (1)</HT></P><P>Provision for unearned premiums</P></STI.ART>
+<ALINEA>The provision for unearned premiums shall comprise the amount representing that part of gross premiums written which is to be allocated to the following financial year or to subsequent financial years. In the case of life assurance Member States may, pending further harmonization, require or permit the provision for unearned premiums to be included in item C (2).</ALINEA>
+<ALINEA>If, pursuant to Article 26, item C (1) also includes the amount of the provision for unexpired risks, the description of the item shall be <QUOT.START CODE="2018" ID="QS0004" REF.END="QE0004"></QUOT.START>Provision for unearned premiums and unexpired risks<QUOT.END CODE="2019" ID="QE0004" REF.START="QS0004"></QUOT.END>. Where the amount for unexpired risks is material, it shall be disclosed separately either in the balance sheet or in the notes on the accounts.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="026"><TI.ART>Article 26</TI.ART>
+<STI.ART><P>Liabilities: <HT TYPE="ITALIC">item C (6)</HT></P><P>Other technical provisions</P></STI.ART>
+<ALINEA>This item shall comprise, <HT TYPE="ITALIC">inter alia,</HT> the provision for unexpired risks, i.e. the amount set aside in addition to unearned premiums in respect of risks to be borne by the insurance undertaking after the end of the financial year, in order to provide for all claims and expenses in connection with insurance contracts in force in excess of the related unearned premiums and any premiums receivable on those contracts. However, if national legislation so provides, the provision for unexpired risks may be added to the provision for unearned premiums, as defined in Article 25, and included in the amount shown under item C (1).</ALINEA>
+<ALINEA>Where the amount of unexpired risks is significant, it shall be disclosed separately either in the balance sheet or in the notes on the accounts.</ALINEA>
+<ALINEA>Where the option provided for in the second paragraph of Article 3 is not exercised, this item shall also include the ageing reserves.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="027"><TI.ART>Article 27</TI.ART>
+<STI.ART><P>Liabilities: <HT TYPE="ITALIC">item C (2)</HT></P><P>Life assurance provision</P></STI.ART>
+<ALINEA>The life assurance provision shall comprise the actuarially estimated value of an insurance undertaking's liabilities including bonuses already declared and after deducting the actuarial value of future premiums.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="028"><TI.ART>Article 28</TI.ART>
+<STI.ART><P>Liabilities: <HT TYPE="ITALIC">item C (3)</HT></P><P>Claims outstanding</P></STI.ART>
+<ALINEA>The provision for claims outstanding shall be the total estimated ultimate cost to an insurance undertaking of settling all claims arising from events which have occured up to the end of the financial year, whether reported or not, less amounts already paid in respect of such claims.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="029"><TI.ART>Article 29</TI.ART>
+<STI.ART><P>Liabilities: <HT TYPE="ITALIC">item C (4)</HT></P><P>Provision for bonuses and rebates</P></STI.ART>
+<ALINEA>The provision for bonuses and rebates shall comprise amounts intended for policyholders or contract beneficiaries by way of bonuses and rebates as defined in Article 39 to the extent that such amounts have not been credited to policyholders or contract beneficiaries or included in an item Ba (Fund for future appropriations), as provided for in Article 22, first paragraph, or in item C (2).</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="030"><TI.ART>Article 30</TI.ART>
+<STI.ART><P>Liabilities: <HT TYPE="ITALIC">item C (5)</HT></P><P>Equalization provision</P></STI.ART>
+<PARAG IDENTIFIER="030.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>The equalization provision shall comprise any amounts set aside in compliance with legal or administrative requirements to equalize fluctuations in loss ratios in future years or to provide for special risks.</ALINEA></PARAG>
+<PARAG IDENTIFIER="030.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>Where, in the absence of any such legislative or administrative requirements, reserves within the meaning of Article 20 have been constituted for the same purpose, this shall be disclosed in the notes on the accounts.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="031"><TI.ART>Article 31</TI.ART>
+<STI.ART><P>Liabilities: <HT TYPE="ITALIC">item D</HT></P><P>Technical provisions for life-assurance policies where the investment risk is borne by the policyholders.</P></STI.ART>
+<ALINEA>This item shall comprise technical provisions constituted to cover liabilities relating to investment in the context of life assurance policies the value of or the return on which is determined by reference to investments for which the policyholder bears the risk, or by reference to an index.</ALINEA>
+<ALINEA>Any additional technical provisions constituted to cover death risks, operating expenses or other risks (such as benefits payable at the maturity date or guaranteed surrender values) shall be shown under item C (2).</ALINEA>
+<ALINEA>Item D shall also comprise technical provisions representing the obligations of a tontine's organizer <HT TYPE="ITALIC">vis-à-vis</HT> its members.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="032"><TI.ART>Article 32</TI.ART>
+<STI.ART><P>Liabilities: <HT TYPE="ITALIC">item F</HT></P><P>Deposits received from reinsurers</P></STI.ART>
+<ALINEA>In the balance sheet of an undertaking ceding reinsurance this item shall comprise amounts deposited by or withheld from other insurance undertakings under reinsurance contracts. These amounts may not be merged with other amounts owed to or by the other undertakings in question.</ALINEA>
+<ALINEA>Where an undertaking ceding reinsurance has received as a deposit securities which have been transferred to its ownership, this item shall comprise the amount owed by the ceding undertaking by virtue of the deposit.</ALINEA></ARTICLE></DIVISION>
+<DIVISION><TITLE>
+<TI><P>SECTION 5</P></TI>
+<STI><P>Layout of the profit and loss account</P></STI></TITLE>
+<ARTICLE IDENTIFIER="033"><TI.ART>Article 33</TI.ART>
+<PARAG IDENTIFIER="033.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>The Member States shall prescribe the layout shown in Article 34 for profit and loss accounts.</ALINEA></PARAG>
+<PARAG IDENTIFIER="033.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>The technical account for non-life-insurance business shall be used for those classes of direct insurance which are within the scope of Directive 73/239/EEC and for the corresponding classes of reinsurance business.</ALINEA></PARAG>
+<PARAG IDENTIFIER="033.003"><NO.PARAG>3.</NO.PARAG>
+<ALINEA>The technical account for life-assurance business shall be used for those classes of direct insurance which are within the scope of Directive 79/267/EEC and for the corresponding classes of reinsurance business.</ALINEA></PARAG>
+<PARAG IDENTIFIER="033.004"><NO.PARAG>4.</NO.PARAG>
+<ALINEA>Member States may require or permit undertakings the activities of which consist wholly of reinsurance to use the technical account for non-life-insurance business for all their business. This shall also apply to undertakings underwriting direct non-life-insurance and also reinsurance.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="034"><TI.ART>Article 34</TI.ART>
+<STI.ART>Profit and loss account</STI.ART>
+<ALINEA><TBL CLASS="GEN" NO.SEQ="002" COLS="4"><CORPUS>
+<BLK><TI.BLK COL.START="1" COL.END="1"><NP><NO.P>I.</NO.P><TXT>Technical account — Non-life-insurance business</TXT></NP></TI.BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>1.</NO.GR.SEQ>
+<P>Earned premiums, net of reinsurance:</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>gross premiums written</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>outward reinsurance premiums (-)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(c)</NO.GR.SEQ>
+<P>change in the gross provision for unearned premiums and, in so far as national legislation authorizes the inclusion of this provision in liabilities item C (1), in the provision for unexpired risks (+ / -)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(d)</NO.GR.SEQ>
+<P>change in the provision for unearned premiums, reinsurers' share (+ / -)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4">…</CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>2.</NO.GR.SEQ>
+<P>Allocated investment return transferred from the non-technical account (item III (6))</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>3.</NO.GR.SEQ>
+<P>Other technical income, net of reinsurance</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>4.</NO.GR.SEQ>
+<P>Claims incurred, net of reinsurance:</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>claims paid</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(aa)</NO.GR.SEQ>
+<P>gross amount</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(bb)</NO.GR.SEQ>
+<P>reinsurers' share (-)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>change in the provision for claims,</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(aa)</NO.GR.SEQ>
+<P>gross amount</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(bb)</NO.GR.SEQ>
+<P>reinsurers' share (-)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4">…</CELL></ROW></BLK></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>5.</NO.GR.SEQ>
+<P>Changes in other technical provisions, net of reinsurance, not shown under other headings (+ / -)</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>6.</NO.GR.SEQ>
+<P>Bonuses and rebates, net of reinsurance</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>7.</NO.GR.SEQ>
+<P>Net operating expenses:</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>acquisition costs</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>change in deferred acquisition costs (+ / -)</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(c)</NO.GR.SEQ>
+<P>administrative expenses</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(d)</NO.GR.SEQ>
+<P>reinsurance commissions</P><P>and profit participation (-)</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4">…</CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>8.</NO.GR.SEQ>
+<P>Other technical charges, net of reinsurance</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>9.</NO.GR.SEQ>
+<P>Change in the equalization provision (+ / -)</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>10.</NO.GR.SEQ>
+<P>Sub-total (balance on the technical account for non-life-insurance business (item III 1)).</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW></BLK>
+<BLK><TI.BLK COL.START="1" COL.END="1"><NP><NO.P>II.</NO.P><TXT>Technical account — Life-assurance business</TXT></NP></TI.BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>1.</NO.GR.SEQ>
+<P>Earned premiums, net of reinsurance:</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>gross premiums written</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>outward reinsurance premiums (-)</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(c)</NO.GR.SEQ>
+<P>change in the provision for unearned premiums, net of reinsurance (+ / -)</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4">…</CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>2.</NO.GR.SEQ>
+<P>Investment income:</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>income from participating interests,</P><P>with a separate indication of that derived from affiliated undertakings …</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>income from other investments,</P><P>with a separate indication of that derived from affiliated undertakings …</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(aa)</NO.GR.SEQ>
+<P>income from land and buildings</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(bb)</NO.GR.SEQ>
+<P>income from other investments</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(c)</NO.GR.SEQ>
+<P>value re-adjustments on investments</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(d)</NO.GR.SEQ>
+<P>gains on the realization of investments</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4">…</CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>3.</NO.GR.SEQ>
+<P>Unrealized gains on investments</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>4.</NO.GR.SEQ>
+<P>Other technical income, net of reinsurance</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>5.</NO.GR.SEQ>
+<P>Claims incurred, net of reinsurance:</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>claims paid</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(aa)</NO.GR.SEQ>
+<P>gross amount</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(bb)</NO.GR.SEQ>
+<P>reinsurers' share (-)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>change in the provision for claims</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(aa)</NO.GR.SEQ>
+<P>gross amount</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(bb)</NO.GR.SEQ>
+<P>reinsurers' share (-)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4">…</CELL></ROW></BLK></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>6.</NO.GR.SEQ>
+<P>Change in other technical provisions, net of reinsurance, not shown under other headings (+ / -):</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>life assurance provision, net of reinsurance</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(aa)</NO.GR.SEQ>
+<P>gross amount</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(bb)</NO.GR.SEQ>
+<P>reinsurers' share (-)</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>other technical provisions, net of reinsurance</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4">…</CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>7.</NO.GR.SEQ>
+<P>Bonuses and rebates, net of reinsurance</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>8.</NO.GR.SEQ>
+<P>Net operating expenses:</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>acquisition costs,</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>change in deferred acquisition costs (+ / -)</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(c)</NO.GR.SEQ>
+<P>administrative expenses</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(d)</NO.GR.SEQ>
+<P>reinsurance commissions</P><P>and profit participation (-)</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4">…</CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>9.</NO.GR.SEQ>
+<P>Investment charges:</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>investment management charges, including interest</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>value adjustments on investments</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(c)</NO.GR.SEQ>
+<P>losses on the realization of investments</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4">…</CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>10.</NO.GR.SEQ>
+<P>Unrealized losses on investments</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>11.</NO.GR.SEQ>
+<P>Other technical charges, net of reinsurance</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>12.</NO.GR.SEQ>
+<P>Allocated investment return transferred to the non-technical account (-) (item III 4))</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>13.</NO.GR.SEQ>
+<P>Sub-total: (balance on the technical account — life assurance business) (item III 2))</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW></BLK>
+<BLK><TI.BLK COL.START="1" COL.END="1"><NP><NO.P>III.</NO.P><TXT>Non-technical account</TXT></NP></TI.BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>1.</NO.GR.SEQ>
+<P>Balance on the technical account — non-life-insurance business (item I (10))</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>2.</NO.GR.SEQ>
+<P>Balance on the technical account — life-assurance business (item II (13))</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>3.</NO.GR.SEQ>
+<P>Investment income</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>income from participating interests,</P><P>with a separate indication of that derived from affiliated undertakings …</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>income from other investments,</P><P>with a separate indication of that derived from affiliated undertakings …</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(aa)</NO.GR.SEQ>
+<P>income from land and buildings</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(bb)</NO.GR.SEQ>
+<P>income from other investments</P></GR.SEQ></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(c)</NO.GR.SEQ>
+<P>value re-adjustments on investments</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(d)</NO.GR.SEQ>
+<P>gains on the realization of investments</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4">…</CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>4.</NO.GR.SEQ>
+<P>Allocated investment return transferred from the life-assurance technical account (item II (12))</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>5.</NO.GR.SEQ>
+<P>Investment charges:</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<BLK><ROW>
+<CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(a)</NO.GR.SEQ>
+<P>investment management charges, including interest</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(b)</NO.GR.SEQ>
+<P>value adjustments on investments</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>(c)</NO.GR.SEQ>
+<P>losses on the realization of investments</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4">…</CELL></ROW></BLK>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>6.</NO.GR.SEQ>
+<P>Allocated investment return transferred to the non-life-insurance technical account (item I 2))</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>7.</NO.GR.SEQ>
+<P>Other income</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>8.</NO.GR.SEQ>
+<P>Other charges, including value adjustments</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>9.</NO.GR.SEQ>
+<P>Tax on profit or loss on ordinary activities</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>10.</NO.GR.SEQ>
+<P>Profit or loss on ordinary activities after tax</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>11.</NO.GR.SEQ>
+<P>Extraordinary income</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>12.</NO.GR.SEQ>
+<P>Extraordinary charges</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>13.</NO.GR.SEQ>
+<P>Extraordinary profit or loss</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>14.</NO.GR.SEQ>
+<P>Tax on extraordinary profit or loss</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>15.</NO.GR.SEQ>
+<P>Other taxes not shown under the preceding items</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW>
+<ROW><CELL COL="1"><GR.SEQ LEVEL="1"><NO.GR.SEQ>16.</NO.GR.SEQ>
+<P>Profit or loss for the financial year</P></GR.SEQ></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW></BLK></CORPUS></TBL></ALINEA></ARTICLE></DIVISION>
+<DIVISION><TITLE>
+<TI><P>SECTION 6</P></TI>
+<STI><P>Special provisions relating to certain profit-and-loss-account items</P></STI></TITLE>
+<ARTICLE IDENTIFIER="035"><TI.ART>Article 35</TI.ART>
+<ALINEA>Non-life-insurance technical account: item I (1) (a)</ALINEA>
+<ALINEA>Life-assurance technical account: item II (1) (a)</ALINEA>
+<ALINEA>Gross premiums written</ALINEA>
+<ALINEA>Gross premiums written shall comprise all amounts due during the financial year in respect of insurance contracts regardless of the fact that such amounts may relate in whole or in part to a later financial year, and shall include <HT TYPE="ITALIC">inter alia:</HT></ALINEA>
+<ALINEA><LIST TYPE="roman"><ITEM><NP><NO.P>(i)</NO.P><TXT>premiums yet to be written, where the premium calculation can be done only at the end of the year:</TXT></NP></ITEM>
+<ITEM><NP><NO.P>(ii)</NO.P><TXT><LIST TYPE="DASH"><ITEM>
+<P>single premiums, including annuity premiums,</P></ITEM>
+<ITEM><P>in life assurance, single premiums resulting from bonus and rebate provisions in so far as they must be considered as premiums on the basis of contracts and where national legislation requires or permits their being shown under premiums;</P></ITEM></LIST></TXT></NP></ITEM>
+<ITEM><NP><NO.P>(iii)</NO.P><TXT>additional premiums in the case of half-yearly, quarterly or monthly payments and additional payments from policyholders for expenses borne by the insurance undertaking;</TXT></NP></ITEM>
+<ITEM><NP><NO.P>(iv)</NO.P><TXT>in the case of co-insurance, the undertaking's portion of total premiums;</TXT></NP></ITEM>
+<ITEM><NP><NO.P>(v)</NO.P><TXT>reinsurance premiums due from ceding and retroceding insurance undertakings, including portfolio entries,</TXT></NP></ITEM></LIST></ALINEA>
+<ALINEA><P>after deduction of:</P><LIST TYPE="DASH"><ITEM>
+<P>portfolio withdrawals credited to ceding and retroceding insurance undertakings, and</P></ITEM>
+<ITEM><P>cancellations.</P></ITEM></LIST></ALINEA>
+<ALINEA>The above amounts shall not include the amounts of taxes or charges levied with premiums.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="036"><TI.ART>Article 36</TI.ART>
+<ALINEA>Non-life-insurance technical account: item I (1) (b)</ALINEA>
+<ALINEA>Life-assurance technical account: item II (1) (b)</ALINEA>
+<ALINEA>Outward reinsurance premiums</ALINEA>
+<ALINEA>Outward reinsurance premiums shall comprise all premiums paid or payable in respect of outward reinsurance contracts entered into by an insurance undertaking. Portfolio entries payable on the conclusion or amendment of outward reinsurance contracts shall be added; portfolio withdrawals receivable must be deducted.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="037"><TI.ART>Article 37</TI.ART>
+<ALINEA>Non-life-insurance technical account: items I (1) (c) and (d)</ALINEA>
+<ALINEA>Life-assurance technical account: item II (1) (c)</ALINEA>
+<ALINEA>Change in the provision for unearned premiums, net of reinsurance</ALINEA>
+<ALINEA>Pending further coordination, Member States may, in the case of life assurance, require or permit the change in unearned premiums to be included in the change in the life assurance provision.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="038"><TI.ART>Article 38</TI.ART>
+<STI.ART><P>Non-life-insurance technical account: item I (4)</P><P>Life-assurance technical account: item II (5)</P><P>Claims incurred, net of reinsurance</P></STI.ART>
+<PARAG IDENTIFIER="038.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>Claims incurred shall comprise all payments made in respect of the financial year plus the provision for claims but minus the provision for claims for the preceding financial year.</ALINEA>
+<ALINEA>These amounts shall include annuities, surrenders, entries and withdrawals of loss provisions to and from ceding insurance undertakings and reinsurers, external and internal claims management costs and charges for claims incurred but not reported such as referred to in Article 60 (1) (b) and (2) (a).</ALINEA>
+<ALINEA>Sums recoverable on the basis of subrogation and salvage within the meaning of Article 60 (1) (d) shall be deducted.</ALINEA></PARAG>
+<PARAG IDENTIFIER="038.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA><P>Where the difference between:</P><LIST TYPE="DASH"><ITEM>
+<P>the loss provision made at the beginning of the year for outstanding claims incurred in previous years, and</P></ITEM>
+<ITEM><P>the payments made during the year on account of claims incurred in previous years and the loss provision shown at the end of the year for such outstanding claims is material,</P></ITEM></LIST><P>it shall be disclosed in the notes on the accounts, broken down by category and amount.</P></ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="039"><TI.ART>Article 39</TI.ART>
+<ALINEA>Non-life-insurance technical account: item I (6)</ALINEA>
+<ALINEA>Life-assurance technical account: item II (7)</ALINEA>
+<ALINEA>Bonuses and rebates, net of reinsurance</ALINEA>
+<ALINEA>Bonuses shall comprise all amounts chargeable for the financial year which are paid or payable to policyholders and other insured parties or provided for their benefit, including amounts used to increase technical provisions or applied to the reduction of future premiums, to the extent that such amounts represent an allocation of surplus or profit arising on business as a whole or a section of business, after deduction of amounts provided in previous years which are no longer required.</ALINEA>
+<ALINEA>Rebates shall comprise such amounts to the extent that they represent a partial refund of premiums resulting from the experience of individual contracts.</ALINEA>
+<ALINEA>Where material, the amount charged for bonuses and that charged for rebates shall be disclosed separately in the notes on the accounts.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="040"><TI.ART>Article 40</TI.ART>
+<ALINEA>Non-life-insurance technical account: item I (7) (a)</ALINEA>
+<ALINEA>Life-assurance technical account: item II (8) (a)</ALINEA>
+<ALINEA>Acquisition costs</ALINEA>
+<ALINEA>Acquisition costs shall comprise the costs arising from the conclusion of insurance contracts. They shall cover both direct costs, such as acquisition commissions or the cost of drawing up the insurance document or including the insurance contract in the portfolio, and indirect costs, such as advertising costs or the administrative expenses connected with the processing of proposals and the issuing of policies.</ALINEA>
+<ALINEA>Member States may require policy renewal commissions to be entered in item I (7) (c) or II (8) (c).</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="041"><TI.ART>Article 41</TI.ART>
+<ALINEA>Non-life-insurance technical account: item I (7) (c)</ALINEA>
+<ALINEA>Life-assurance technical account: item II (8) (c)</ALINEA>
+<ALINEA>Administrative expenses</ALINEA>
+<ALINEA>Administrative expenses shall include the costs arising from premium collection, portfolio administration, handling of bonuses and rebates, and inward and outward reinsurance. They shall in particular include staff costs and depreciation provisions in respect of office furniture and equipment in so far as these need not be shown under acquisition costs, claims incurred or investment charges.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="042"><TI.ART>Article 42</TI.ART>
+<STI.ART><P>Life-insurance technical account: items II (2) and (9)</P><P>Non-technical account: items III (3) and (5)</P><P>Investment income and charges</P></STI.ART>
+<PARAG IDENTIFIER="042.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>All investment income and charges relating to non-life insurance shall be disclosed in the non-technical account.</ALINEA></PARAG>
+<PARAG IDENTIFIER="042.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>In the case of an undertaking carrying on life-assurance business only, investment income and charges shall be disclosed in the life-assurance technical account.</ALINEA></PARAG>
+<PARAG IDENTIFIER="042.003"><NO.PARAG>3.</NO.PARAG>
+<ALINEA>In the case of an undertaking carrying on both life-assurance and non-life-insurance business, investment income and charges shall, to the extent that they are directly connected with the carrying on of the life-assurance business, be disclosed in the life-assurance technical account.</ALINEA></PARAG>
+<PARAG IDENTIFIER="042.004"><NO.PARAG>4.</NO.PARAG>
+<ALINEA>Member States may require or permit the disclosure of investment income and charges according to the origin or attribution of the investments, if necessary by providing for further items in the non-life-insurance technical account, by analogy with the corresponding items in the life-assurance technical account.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="043"><TI.ART>Article 43</TI.ART>
+<STI.ART><P>Non-life-insurance technical account: item I (2)</P><P>Life-assurance technical account: item II (2)</P><P>Non-technical account: items III (4) and (6)</P><P>Allocated investment return</P></STI.ART>
+<PARAG IDENTIFIER="043.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>Where part of the investment return is transferred to the non-life-insurance technical account, the transfer from the non-technical account shall be deducted from item III (6) and added to item I (2).</ALINEA></PARAG>
+<PARAG IDENTIFIER="043.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>Where part of the investment return disclosed in the life-assurance technical account is transferred to the non-technical account, the amount transferred shall be deducted from item II (12) and added to item III (4).</ALINEA></PARAG>
+<PARAG IDENTIFIER="043.003"><NO.PARAG>3.</NO.PARAG>
+<ALINEA>Member States may lay down the procedures for and the amounts of transfers of allocated return from one part of the profit and loss account to another. The reasons for such transfers and the bases on which they are made shall be disclosed in the notes on the accounts in either event; where appropriate, a reference to the text of the relevant regulation shall suffice.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="044"><TI.ART>Article 44</TI.ART>
+<STI.ART><P>Life-assurance technical account: items II (3) and (10)</P><P>Unrealized gains and losses on investments</P></STI.ART>
+<PARAG IDENTIFIER="044.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA><P>In life-assurance business Member States may permit the disclosure in full or in part in items II (3) and (10) in the profit and loss account of variations in the difference between:</P><LIST TYPE="DASH"><ITEM>
+<P>the valuation of investments at their current value or by means of one of the methods referred to in Article 33 (1) of Directive 78/660/EEC, and</P></ITEM>
+<ITEM><P>their valuation at purchase price.</P></ITEM></LIST></ALINEA>
+<ALINEA>In any event, Member States shall require that the amounts referred to in the first paragraph be disclosed in the aforementioned items where they relate to investments shown as assets under D.</ALINEA></PARAG>
+<PARAG IDENTIFIER="044.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>Member States which require or permit the valuation of the investments shown as assets under C at their current value may, in respect of non-life-insurance, permit the disclosure in full or in part in an item III (3a) and in an item III (5a) in the profit and loss account of the variation in the difference between the valuation of those investments at their current value and their valuation at purchase price.</ALINEA></PARAG></ARTICLE></DIVISION>
+<DIVISION><TITLE>
+<TI><P>SECTION 7</P></TI>
+<STI><P>Valuation rules</P></STI></TITLE>
+<ARTICLE IDENTIFIER="045"><TI.ART>Article 45</TI.ART>
+<ALINEA>Article 32 of Directive 78/660/EEC, under which the valuation of items shown in the annual accounts must be based on the principle of purchase price or production cost, shall apply to investment subject to Articles 46 to 49 of this Directive.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="046"><TI.ART>Article 46</TI.ART>
+<PARAG IDENTIFIER="046.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>Member States may require or permit the valuation of investments shown as assets under C on the basis of their current value calculated in accordance with Articles 48 and 49.</ALINEA></PARAG>
+<PARAG IDENTIFIER="046.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>The investments shown as assets under D shall be shown at their current value.</ALINEA></PARAG>
+<PARAG IDENTIFIER="046.003"><NO.PARAG>3.</NO.PARAG>
+<ALINEA>Where investments are shown at their purchase price, their current value shall be disclosed in the notes on the accounts.</ALINEA>
+<ALINEA>However, Member States in which, on the date of the notification of this Directive, investments are shown at their purchase price may give undertakings the option of initially disclosing in the notes on the account the current value of investment shown as assets under C (I) no later than five years after the date referred to in Article 70 (1) and the current value of other investments no later than three years after the same date.</ALINEA></PARAG>
+<PARAG IDENTIFIER="046.004"><NO.PARAG>4.</NO.PARAG>
+<ALINEA>Where investments are shown at their current value, their purchase price shall be disclosed in the notes on the accounts.</ALINEA></PARAG>
+<PARAG IDENTIFIER="046.005"><NO.PARAG>5.</NO.PARAG>
+<ALINEA>The same valuation method shall be applied to all investments included in any item denoted by an arabic numeral or shown as assets under C (I).Member States may permit derogations from this requirement.<?CLG.MDFC ID="C001001M004000" IDREF="O001001M004000"?></ALINEA></PARAG>
+
+<PARAG IDENTIFIER="046.006"><NO.PARAG>6.</NO.PARAG>
+<ALINEA>The method(s) applied to each investment item shall be stated in the notes on the accounts, together with the amounts so determined.</ALINEA></PARAG>
+<?CLG.MDFC ID="C001001M005000" IDREF="O001001M005000"?></ARTICLE>
+
+<ARTICLE IDENTIFIER="046A"><TI.ART>Article 46a</TI.ART>
+<PARAG IDENTIFIER="046A.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>Where assets and liabilities are valued in accordance with Section 7a of Directive 78/660/EEC, paragraphs 2 to 6 of this Article shall apply.</ALINEA></PARAG>
+<PARAG IDENTIFIER="046A.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>The investments shown as assets under D shall be shown at their fair value.</ALINEA></PARAG>
+<PARAG IDENTIFIER="046A.003"><NO.PARAG>3.</NO.PARAG>
+<ALINEA>Where investments are shown at their purchase price, their fair value shall be disclosed in the notes on the accounts.</ALINEA></PARAG>
+<PARAG IDENTIFIER="046A.004"><NO.PARAG>4.</NO.PARAG>
+<ALINEA>Where investments are shown at their fair value, their purchase price shall be disclosed in the notes on the accounts.</ALINEA></PARAG>
+<PARAG IDENTIFIER="046A.005"><NO.PARAG>5.</NO.PARAG>
+<ALINEA>The same valuation method shall be applied to all investments included in any item denoted by an arabic numeral or shown as assets under C(I). Member States may permit derogations from this requirement.</ALINEA></PARAG>
+<PARAG IDENTIFIER="046A.006"><NO.PARAG>6.</NO.PARAG>
+<ALINEA>The method(s) applied to each investment item shall be stated in the notes on the accounts, together with the amounts so determined.</ALINEA></PARAG></ARTICLE>
+<?CLG.MDFC ID="C001001M006000" IDREF="O001001M006000"?>
+<ARTICLE IDENTIFIER="047"><TI.ART>Article 47</TI.ART>
+<ALINEA>Where current value is applied to investments, Article 33 (2) and (3) of Directive 78/660/EEC shall apply, except as provided in Articles 37 and 44 of this Directive.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="048"><TI.ART>Article 48</TI.ART>
+<PARAG IDENTIFIER="048.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>In the case of investments other than land and buildings, current value shall mean market value, save as provided in paragraph 5.</ALINEA></PARAG>
+<PARAG IDENTIFIER="048.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>Where investments are officially listed on an official stock exchange, market value shall mean the value on the balance-sheet date or, when the balance-sheet date is not a stock-exchange trading day, on the last stock-exchange trading day before that date.</ALINEA></PARAG>
+<PARAG IDENTIFIER="048.003"><NO.PARAG>3.</NO.PARAG>
+<ALINEA>Where a market exists for investments other than those referred to in paragraph 2, market value shall mean the average price at which such investments were traded on the balance-sheet date or, when the balance-sheet date is not a trading day, on the last trading day before that date.</ALINEA></PARAG>
+<PARAG IDENTIFIER="048.004"><NO.PARAG>4.</NO.PARAG>
+<ALINEA>Where on the date on which the accounts are drawn up investments such as referred to in paragraphs 2 or 3 have been sold or are to be sold within the short term, the market value shall be reduced by the actual or estimated realization costs.</ALINEA></PARAG>
+<PARAG IDENTIFIER="048.005"><NO.PARAG>5.</NO.PARAG>
+<ALINEA>Except where the equity method is applied in accordance with Article 59 of Directive 78/660/EEC, all other investments shall be valued on a basis which has prudent regard to the likely realizable value.</ALINEA></PARAG>
+<PARAG IDENTIFIER="048.006"><NO.PARAG>6.</NO.PARAG>
+<ALINEA>In all cases the method of valuation shall be precisely described and the reason for adopting it stated in the notes on the accounts.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="049"><TI.ART>Article 49</TI.ART>
+<PARAG IDENTIFIER="049.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>In the case of land and buildings current value shall mean the market value on the date of valuation, where relevant reduced as provided in paragraphs 4 and 5.</ALINEA></PARAG>
+<PARAG IDENTIFIER="049.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>Market value shall mean the price at which land and buildings could be sold under private contract between a willing seller and an arm's length buyer on the date of valuation, it being assumed that the property is publicly exposed to the market, that market conditions permit orderly disposal and that a normal period, having regard to the nature of the property, is available for the negotiation of the sale.</ALINEA></PARAG>
+<PARAG IDENTIFIER="049.003"><NO.PARAG>3.</NO.PARAG>
+<ALINEA>The market value shall be determined through the separate valuation of each land and buildings item, carried out at least every five years according to methods generally recognized or recognized by the insurance supervisory authorities. Article 35 (1) (b) of Directive 78/660/EEC shall not apply.</ALINEA></PARAG>
+<PARAG IDENTIFIER="049.004"><NO.PARAG>4.</NO.PARAG>
+<ALINEA>Where the value of any land and buildings item has diminished since the preceding valuation under paragraph 3, an appropriate value adjustment shall be made. The lower value thus arrived at shall not be increased in subsequent balance sheets unless such increase results from a new determination of market value arrived at in accordance with paragraphs 2 and 3.</ALINEA></PARAG>
+<PARAG IDENTIFIER="049.005"><NO.PARAG>5.</NO.PARAG>
+<ALINEA>Where on the date on which the accounts are drawn up land and buildings have been sold or are to be sold within the short term, the value arrived at in accordance with paragraphs 2 and 4 shall be reduced by the actual or estimated realization costs.</ALINEA></PARAG>
+<PARAG IDENTIFIER="049.006"><NO.PARAG>6.</NO.PARAG>
+<ALINEA>Where it is impossible to determine the market value of a land and buildings item, the value arrived at on the basis of the principle of purchase price or production cost shall be deemed to be the current value.</ALINEA></PARAG>
+<PARAG IDENTIFIER="049.007"><NO.PARAG>7.</NO.PARAG>
+<ALINEA>The method by which the current value of land and buildings has been arrived at and their breakdown by financial year of valuation shall be disclosed in the notes on the accounts.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="050"><TI.ART>Article 50</TI.ART>
+<ALINEA><P>Where Article 33 of Directive 78/660/EEC is applied to insurance undertakings, it shall be so in the following manner:</P><LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT>paragraph 1 (a) shall apply to assets shown under F (I) as defined in Article 6 of this Directive;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT>paragraph 1 (c) shall apply to assets shown under C (I), (II), (III) and (IV) and F (I) (except for stocks) and (III) as defined in Article 6 of this Directive.</TXT></NP></ITEM></LIST></ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="051"><TI.ART>Article 51</TI.ART>
+<ALINEA><P>Article 35 of Directive 78/660/EEC shall apply to insurance undertakings subject to the following provisions:</P><LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT>it shall apply to assets shown under B and C and to fixed assets shown under F (I) as defined in Article 6 of this Directive;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT>paragraph 1 (c) (aa) shall apply to assets shown under C (II), (III) and (IV) and F (III) as defined in Article 6 of this Directive.</TXT></NP></ITEM></LIST></ALINEA>
+<ALINEA>Member States may require that value adjustments be made in respect of transferable securities shown as investments, so that they are shown at the lower value to be attributed to them at the balance-sheet date.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="052"><TI.ART>Article 52</TI.ART>
+<ALINEA>Article 38 of Directive 78/660/EEC shall apply to assets shown under F (I) as defined in Article 6 of this Directive.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="053"><TI.ART>Article 53</TI.ART>
+<ALINEA>Article 39 of Directive 78/660/EEC shall apply to assets shown under E (I), (II) and (III) and F (II) as defined in Article 6 of this Directive.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="054"><TI.ART>Article 54</TI.ART>
+<ALINEA>In non-life insurance the amount of any deferred acquisition costs shall be established on a basis compatible with that used for unearned premiums.</ALINEA>
+<ALINEA>In life assurance the calculation of the amount of any acquisition costs to be deferred may be taken into the actuarial calculation referred to in Article 59.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="055"><TI.ART>Article 55</TI.ART>
+<PARAG IDENTIFIER="055.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA><LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT>If they have not been valued at market value, debt securities and other fixed-income securities shown as assets under C (II) and (III) shall be shown in the balance sheet at purchase price. Member States may, however, require or permit such debt securities to be shown in the balance sheet at the amount repayable at maturity.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT>Where the purchase price of the securities referred to in point (a) exceeds the amount repayable at maturity, the amount of the difference shall be charged to the profit and loss account. Member States may, however, require or permit the amount of the difference to be written off in instalments so that it is completely written off when the securities are repaid. That difference must be shown separately in the balance sheet or in the notes on the accounts.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(c)</NO.P><TXT>Where the purchase price of the securities referred to in point (a) is less than the amount repayable at maturity, Member States may require or permit the amount of the difference to be released to income in instalments over the period remaining until repayment. That difference must be shown separately in the balance sheet or in the notes on the accounts.</TXT></NP></ITEM></LIST></ALINEA></PARAG>
+<PARAG IDENTIFIER="055.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>Where debt securities or other fixed-income securities that are not valued at market value are sold before maturity and the proceeds are used to purchase other debt securities or fixed-income securities, Member States may permit the difference between the proceeds of sale and their book value to be spread uniformly over the period remaining until the maturity of the original investment.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="056"><TI.ART>Article 56</TI.ART>
+<STI.ART>Technical provisions</STI.ART>
+<ALINEA>The amount of technical provisions must at all times be such that an undertaking can meet any liabilities arising out of insurance contracts as far as can reasonably be foreseen.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="057"><TI.ART>Article 57</TI.ART>
+<STI.ART>Provision for unearned premiums</STI.ART>
+<PARAG IDENTIFIER="057.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>The provision for unearned premiums shall in principle be computed separately for each insurance contract. Member States may, however, permit the use of statistical methods, and in particular proportional and flat-rate methods, where they may be expected to give approximately the same results as individual calculations.</ALINEA></PARAG>
+<PARAG IDENTIFIER="057.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>In classes of insurance where the assumption of a temporal correlation between risk experience and premium is not appropriate, calculation methods shall be applied that take account of the differing pattern of risk over time.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="058"><TI.ART>Article 58</TI.ART>
+<STI.ART>Provision for unexpired risks</STI.ART>
+<ALINEA>The provision for unexpired risks referred to in Article 26 shall be computed on the basis of claims and administrative expenses likely to arise after the end of the financial year from contracts concluded before that date, in so far as their estimated value exceeds the provision for unearned premiums and any premiums receivable under those contracts.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="059"><TI.ART>Article 59</TI.ART>
+<STI.ART>Life assurance provision</STI.ART>
+<PARAG IDENTIFIER="059.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>The life assurance provision shall in principle be computed separately for each life assurance contract. Member States may, however, permit the use of statistical or mathematical methods where they may be expected to give approximately the same results as individual calculations. A summary of the principal assumptions made shall be given in the notes on the accounts.</ALINEA></PARAG>
+<PARAG IDENTIFIER="059.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>The computation shall be made annually by an actuary or other specialist in this field on the basis of recognized actuarial methods.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="060"><TI.ART>Article 60</TI.ART>
+<STI.ART>Provisions for claims outstanding</STI.ART>
+<PARAG IDENTIFIER="060.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA><P><HT TYPE="ITALIC">Non-life insurance</HT></P><LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT>A provision shall in principle be computed separately for each case on the basis of the costs still expected to arise. Statistical methods may be used if they result in an adequate provision having regard to the nature of the risks; Member States may, however, make the application of such methods subject to prior approval.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT>This provision shall also allow for claims incurred but not reported by the balance-sheet date; its amount shall be determined having regard to past experience as to the number and magnitude of claims reported after the balance-sheet date.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(c)</NO.P><TXT>Claims settlement costs shall be included in the calculation of the provision irrespective of their origin.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(d)</NO.P><TXT>Recoverable amounts arising out of the acquisition of the rights of policyholders with respect to third parties (subrogation) or of the legal ownership of insured property (salvage) shall be deducted from the provision for claims outstanding; they shall be estimated on a prudent basis. Where such amounts are material, they shall be disclosed in the notes on the accounts.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(e)</NO.P><TXT>By way of derogation from subparagraph (d), Member States may require or permit the disclosure of recoverable amounts as assets.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(f)</NO.P><TXT>Where benefits resulting from a claim must be paid in the form of annuity, the amounts to be set aside for that purpose shall be calculated by recognized actuarial methods.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(g)</NO.P><TXT>Implicit discounting or deductions, whether resulting from the placing of a present value on a provision for an outstanding claim which is expected to be settled later at a higher figure or otherwise effected, shall be prohibited.</TXT>
+<P>Member States may permit explicit discounting or deductions to take account of investment income. No such discounting or deductions shall be permissible unless:</P><P><LIST TYPE="roman"><ITEM>
+<NP><NO.P>(i)</NO.P><TXT>the expected average date for the settlement of claims is at least four years after the accounting date;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(ii)</NO.P><TXT>the discounting or deduction is effected on a recognized prudential basis; the competent authority must be given advance notification of any change in method;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(iii)</NO.P><TXT>when calculating the total cost of settling claims, an undertaking takes account of all factors that could cause increases in that cost;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(iv)</NO.P><TXT>an undertaking has adequate data at its disposal to construct a reliable model of the rate of claims settlements;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(v)</NO.P><TXT>the rate of interest used for the calculation of present values does not exceed a prudent estimate of the investment income from assets invested as a provision for claims during the period necessary for the payment of such claims. Moreover, it must not exceed either of the following:</TXT>
+<P><LIST TYPE="DASH"><ITEM>
+<P>the investment income from such assets over the preceding five years,</P></ITEM>
+<ITEM><P>the investment income from such assets during the year preceding the balance-sheet date.</P></ITEM></LIST></P></NP></ITEM></LIST></P><P>When discounting or effecting deductions, an undertaking shall, in the notes on its accounts, disclose the total amount of provisions before discounting or deduction, the categories of claims which are discounted or from which deductions have been made and, for each category of claims, the methods used, in particular the rates used for the estimates referred to in the preceding subparagraph, points (iii) and (v), and the criteria adopted for estimating the period that will elapse before the claims are settled.</P></NP></ITEM></LIST></ALINEA></PARAG>
+<PARAG IDENTIFIER="060.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA><P><HT TYPE="ITALIC">Life insurance</HT></P><LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT>The amount of the provision for claims shall be equal to the sums due to beneficiaries, plus the costs of settling claims. It shall include the provision for claims incurred but not reported.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT>Member States may require the disclosure in liabilities item C (2) of the amounts referred to in (a).</TXT></NP></ITEM></LIST></ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="061"><TI.ART>Article 61</TI.ART>
+<PARAG IDENTIFIER="061.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>Pending further coordination, Member States may require or permit the application of the following methods where, because of the nature of the class or type of insurance in question, information about premiums receivable, claims payable or both for the underwriting years is insufficient when the annual accounts are drawn up for accurate estimates to be made.</ALINEA>
+<ALINEA><GR.SEQ LEVEL="1"><TITLE>
+<TI><P>Method 1</P></TI></TITLE>
+<P>The excess of the premiums written over the claims and expenses paid in respect of contracts commencing in the underwriting year shall form a technical provision which is included in the technical provision for claims outstanding shown in the balance sheet in liabilities item C (3). The provision may also be computed on the basis of a given percentage of the premiums written where such a method is appropriate for the type of risk insured. Should the need arise, the amount of this technical provision shall be increased to make it sufficient to meet present and future obligations. The technical provision constituted by this method shall be replaced by a provision for claims outstanding estimated in the usual manner as soon as sufficient information has been gathered and not later than the end of the third year following the underwriting year.</P></GR.SEQ><GR.SEQ LEVEL="1"><TITLE>
+<TI><P>Method 2</P></TI></TITLE>
+<P>The figures shown in the technical account or in certain items within it shall relate to a year which wholly or partly precedes the financial year. It must not do so by more than 12 months. The amounts of the technical provisions shown in the annual accounts shall if necessary be increased to make them sufficient to meet present and future obligations.</P></GR.SEQ></ALINEA></PARAG>
+<PARAG IDENTIFIER="061.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>Where one of the methods described in paragraph 1 is adopted, it shall be applied systematically in successive years unless circumstances justify a change. The use of either method shall be disclosed in the notes on the accounts and the reasons given; in the event of a change in the method applied, the effect on the assets, liabilities, financial position and profit or loss shall be indicated in the notes on the accounts. Where Method 1 is used, the length of time that elapses before a provision for claims outstanding is constituted on the usual basis shall be disclosed in the notes on the accounts. Where Method 2 is used, the length of time by which the earlier year to which the figures relate precedes the financial year and the magnitude of the transactions concerned shall be disclosed in the notes on the accounts.</ALINEA></PARAG>
+<PARAG IDENTIFIER="061.003"><NO.PARAG>3.</NO.PARAG>
+<ALINEA>For the purposes of this Article, <QUOT.START CODE="2018" ID="QS0005" REF.END="QE0005"></QUOT.START>underwriting year<QUOT.END CODE="2019" ID="QE0005" REF.START="QS0005"></QUOT.END> shall mean the financial year in which the insurance contracts in the class or type of insurance in question commenced.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="062"><TI.ART>Article 62</TI.ART>
+<ALINEA>Pending further coordination, those Member States which require the constitution of equalization provisions shall prescribe the valuation rules to be applied to them.</ALINEA></ARTICLE></DIVISION>
+<DIVISION><TITLE>
+<TI><P>SECTION 8</P></TI>
+<STI><P>Contents of the notes on the accounts</P></STI></TITLE>
+<ARTICLE IDENTIFIER="063"><TI.ART>Article 63</TI.ART>
+<ALINEA><P>In place of the information provided for in Article 43 (1) (8) of Directive 78/660/EEC, insurance undertakings shall provide the following particulars:</P><LIST TYPE="ROMAN"><ITEM>
+<NP><NO.P>I.</NO.P><TXT>As regards non-life insurance, the notes on the accounts shall disclose:</TXT>
+<P><LIST TYPE="ARAB"><ITEM>
+<NP><NO.P>1.</NO.P><TXT>gross premiums written;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>2.</NO.P><TXT>gross premiums earned;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>3.</NO.P><TXT>gross claims charges;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>4.</NO.P><TXT>gross operating expenses;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>5.</NO.P><TXT>the reinsurance balance.</TXT></NP></ITEM></LIST></P><P>These amounts shall be shown broken down between direct insurance and reinsurance acceptances, if reinsurance acceptances amount to 10 % or more of gross premiums written, and then within direct insurance into the following groups of classes:</P><P><LIST TYPE="DASH"><ITEM>
+<P>accident and health,</P></ITEM>
+<ITEM><P>motor, third-party liability,</P></ITEM>
+<ITEM><P>motor, other classes,</P></ITEM>
+<ITEM><P>marine, aviation and transport,</P></ITEM>
+<ITEM><P>fire and other damage to property,</P></ITEM>
+<ITEM><P>third-party liability,</P></ITEM>
+<ITEM><P>credit and suretyship,</P></ITEM>
+<ITEM><P>legal expenses,</P></ITEM>
+<ITEM><P>assistance,</P></ITEM>
+<ITEM><P>miscellaneous.</P></ITEM></LIST></P><P>The breakdown into groups of classes within direct insurance shall not be required where the amount of the gross premiums written in direct insurance for the group in question does not exceed ECU 10 million. However, undertakings shall in any case disclose the amounts relating to the three largest groups of classes in their business.</P></NP></ITEM>
+<ITEM><NP>
+<NO.P>II.</NO.P><TXT>As regards life assurance, the notes on the accounts shall disclose:</TXT>
+<P><LIST TYPE="ARAB"><ITEM>
+<NP><NO.P>1.</NO.P><TXT>gross premiums written, broken down between direct insurance and reinsurance acceptances, if reinsurance acceptances amount to 10 % or more of gross premiums written, and then within direct insurance to indicate:</TXT>
+<P><LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT><LIST TYPE="roman"><ITEM>
+<NP><NO.P>(i)</NO.P><TXT>individual premiums;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(ii)</NO.P><TXT>premiums under group contracts;</TXT></NP></ITEM></LIST></TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT><LIST TYPE="roman"><ITEM>
+<NP><NO.P>(i)</NO.P><TXT>periodic premiums;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(ii)</NO.P><TXT>single premiums;</TXT></NP></ITEM></LIST></TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(c)</NO.P><TXT><LIST TYPE="roman"><ITEM>
+<NP><NO.P>(i)</NO.P><TXT>premiums from non-bonus contracts;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(ii)</NO.P><TXT>premiums from bonus contracts;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(iii)</NO.P><TXT>premiums from contracts where the investment risk is borne by policyholders.</TXT></NP></ITEM></LIST></TXT></NP></ITEM></LIST></P><P>Disclosure of the figure relating to (a), (b) or (c) shall not be required where it does not exceed 10 % of the gross premiums written in direct insurance;</P></NP></ITEM>
+<ITEM><NP>
+<NO.P>2.</NO.P><TXT>the reinsurance balance;</TXT></NP></ITEM></LIST></P></NP></ITEM>
+<ITEM><NP>
+<NO.P>III.</NO.P><TXT>In the case covered by Article 33 (4), gross premiums broken down between life assurance and non-life insurance.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>IV.</NO.P><TXT>In all cases, the total gross direct insurance premiums resulting from contracts concluded by the insurance undertaking</TXT>
+<P><LIST TYPE="DASH"><ITEM>
+<P>in the Member State of its head office,</P></ITEM>
+<ITEM><P>in the other Member States, and</P></ITEM>
+<ITEM><P>in other countries,</P></ITEM></LIST></P><P>except that disclosure of the figure relating to the above shall not be required if they do not exceed 5 % of total gross premiums.</P></NP></ITEM></LIST></ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="064"><TI.ART>Article 64</TI.ART>
+<ALINEA>In the notes on their accounts insurance undertakings shall disclose the total amount of commissions for direct insurance business taken into the accounts for the financial year. This requirement shall cover commissions of any kind, and in particular acquisition, renewal, collection and portfolio management commissions.</ALINEA></ARTICLE></DIVISION>
+<DIVISION><TITLE>
+<TI><P>SECTION 9</P></TI>
+<STI><P>Provisions relating to consolidated accounts</P></STI></TITLE>
+<ARTICLE IDENTIFIER="065"><TI.ART>Article 65</TI.ART>
+<PARAG IDENTIFIER="065.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>Insurance undertakings shall draw up consolidated accounts and consolidated annual reports in accordance with Directive 83/349/EEC, save as otherwise provided in this section.</ALINEA></PARAG>
+<PARAG IDENTIFIER="065.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>In so far as a Member State does not have recourse to Article 5 of Directive 83/349/EEC, paragraph 1 shall also apply to parent undertakings, the sole or essential object of which is to acquire holdings in subsidiary undertakings and turn them to profit, where those subsidiary undertakings are either exclusively or mainly insurance undertakings.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="066"><TI.ART>Article 66</TI.ART>
+<ALINEA><P>Directive 83/349/EEC shall apply subject to the following provisions:</P><LIST TYPE="ARAB"><ITEM>
+<NP><NO.P>1.</NO.P><TXT>Articles 4, 6, and 40 shall not apply;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>2.</NO.P><TXT>the information referred to in the first and second indents of Article 9 (2), namely:</TXT>
+<P><LIST TYPE="DASH"><ITEM>
+<P>the amount of the fixed assets, and</P></ITEM>
+<ITEM><P>the net turnover,</P></ITEM></LIST></P><P>shall be replaced by particulars of the gross premiums written as defined in Article 35 of this Directive;</P></NP></ITEM>
+<ITEM><NP>
+<NO.P>3.</NO.P><TXT>a Member State may also apply Article 12 of Directive 83/349/EEC to two or more insurance undertakings which are not connected as described in Article 1 (1) or (2) of the same Directive but are managed on a unified basis other than pursuant to a contract or provisions of their memoranda or articles of association. Unified management may also consist of important and durable reinsurance links;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>4.</NO.P><TXT>Member States may permit derogations from Article 26 (1) (c) of Directive 83/349/EEC where a transaction has been concluded according to normal market conditions and has established policyholder rights. Any such derogation shall be disclosed and where they have a material effect on the assets, liabilities, financial position and profit or loss of all the undertakings included in the consolidation that fact shall be disclosed in the notes on the consolidated accounts;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>5.</NO.P><TXT>Article 27 (3) of Directive 83/349/EEC shall apply provided that the balance-sheet date of an undertaking included in a consolidation does not precede the consolidated balance-sheet date by more than six months;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>6.</NO.P><TXT>Article 29 of Directive 83/349/EEC shall not apply to those liabilities items, the valuation of which by the undertakings included in a consolidation is based on the application of provisions specific to insurance undertakings or to those assets items changes in the values of which also affect or establish policyholders' rights. Where recourse is had to this derogation, the fact shall be disclosed in the notes on the consolidated accounts.</TXT></NP></ITEM></LIST></ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="067"><TI.ART>Article 67</TI.ART>
+<ALINEA>In consolidated accounts alone Member States may require or permit all investment income and charges to be disclosed in the non-technical account, even when such income and charges are connected with life-assurance business.</ALINEA>
+<ALINEA>Furthermore, Member States may in such cases require or permit the allocation of part of the investment return to the life-assurance technical account.</ALINEA></ARTICLE></DIVISION>
+<DIVISION><TITLE>
+<TI><P>SECTION 10</P></TI>
+<STI><P>Publication</P></STI></TITLE>
+<ARTICLE IDENTIFIER="068"><TI.ART>Article 68</TI.ART>
+<PARAG IDENTIFIER="068.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>The duly approved annual accounts of insurance undertakings, together with the annual reports and the reports by the persons responsible for auditing the accounts, shall be published as laid down by the laws of each Member State in accordance with Article 3 of Directive 68/151/EEC<NOTE NOTE.ID="E0011" NUMBERING="ARAB" TYPE="FOOTNOTE"><P><REF.DOC.OJ PAGE.FIRST="8" COLL="L" DATE.PUB="19680901" NO.OJ="065">OJ No L 65, 14. 3. 1968, p. 8</REF.DOC.OJ>.</P></NOTE>.</ALINEA>
+<ALINEA>The laws of a Member State may, however, provide that annual reports need not be published as provided in the first subparagraph. In that event, they shall be made available to the public at the undertakings' head offices in the Member State concerned. It must be possible to obtain a copy of all or part of any such report upon request. The price of such a copy shall not exceed its administrative cost.</ALINEA></PARAG>
+<PARAG IDENTIFIER="068.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>Paragraph 1 shall also apply to the duly approved consolidated accounts, the consolidated annual report and the reports by the persons responsible for auditing the accounts.</ALINEA></PARAG>
+<PARAG IDENTIFIER="068.003"><NO.PARAG>3.</NO.PARAG>
+<ALINEA>Where an insurance undertaking which has drawn up annual accounts or consolidated accounts is not established as one of the types of company listed in Article 1 (1) of Directive 78/660/EEC and is not required by its national law to publish the documents referred to in paragraph 1 and 2 of this Article as prescribed in Article 3 of Directive 68/151/EEC, it shall at least make them available to the public at its head office. It must be possible to obtain copies of such documents on request. The price of such copies shall not exceed their administrative cost.</ALINEA></PARAG>
+<PARAG IDENTIFIER="068.004"><NO.PARAG>4.</NO.PARAG>
+<ALINEA>Member States shall provide for appropriate sanctions for failure to comply with the publication rules laid down in this Article.</ALINEA></PARAG></ARTICLE></DIVISION>
+<DIVISION><TITLE>
+<TI><P>SECTION 11</P></TI>
+<STI><P>Final provisions</P></STI></TITLE>
+<ARTICLE IDENTIFIER="069"><TI.ART>Article 69</TI.ART>
+<ALINEA><P>The contact committee set up pursuant to Article 52 of Directive 78/660/EEC shall also, when constituted appropriately, have the following functions:</P><LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT>to facilitate, without prejudice to Articles 169 and 170 of the Treaty, harmonized application of this Directive through regular meetings dealing in particular with practical problems arising in connection with its application;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT>to advise the Commission, if the need arises, on additions or amendments to this Directive.</TXT></NP></ITEM></LIST></ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="070"><TI.ART>Article 70</TI.ART>
+<PARAG IDENTIFIER="070.001"><NO.PARAG>1.</NO.PARAG>
+<ALINEA>Member States shall adopt the laws, regulations and administrative provisions necessary for them to comply with this Directive before 1 January 1994. They shall forthwith inform the Commission thereof.</ALINEA>
+<ALINEA>When Member States adopt these measures, they shall include a reference to this Directive or be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.</ALINEA></PARAG>
+<PARAG IDENTIFIER="070.002"><NO.PARAG>2.</NO.PARAG>
+<ALINEA>Member States may provide that the provisions referred to in paragraph 1 shall first apply to annual accounts and consolidated accounts for financial years beginning on 1 January 1995 or during the calendar year 1995.</ALINEA></PARAG>
+<PARAG IDENTIFIER="070.003"><NO.PARAG>3.</NO.PARAG>
+<ALINEA>Member States shall communicate to the Commission the texts of the main provisoins of national law which they adopt in the field governed by this Directive.</ALINEA></PARAG></ARTICLE>
+<ARTICLE IDENTIFIER="071"><TI.ART>Article 71</TI.ART>
+<ALINEA>Five years after the date referred to in Article 70 (2) the Council, acting on a proposal from the Commission, shall examine and if need be revise all those provisions of this Directive which provide for Member State options in the light of the experience acquired in applying this Directive and in particular of the aims of greater transparency and harmonization of the provisions referred to by this Directive.</ALINEA></ARTICLE>
+<ARTICLE IDENTIFIER="072"><TI.ART>Article 72</TI.ART>
+<ALINEA>This Directive is addressed to the Member States.</ALINEA></ARTICLE></DIVISION></ENACTING.TERMS>
+
+<CONS.ANNEX><TITLE>
+<TI><P>ANNEX</P></TI>
+<STI><P>PROVISIONS RELATING TO LLOYD'S</P></STI></TITLE>
+<CONTENTS><GR.SEQ LEVEL="1">
+<TITLE><TI>
+<NP><NO.P>A.</NO.P><TXT>General</TXT></NP></TI></TITLE>
+<P>For the purposes of this Directive, both Lloyd's and Lloyd's syndicates shall be deemed to be insurance undertakings.</P><P>Subject to the necessary adaptations set out in section B:</P>
+<LIST TYPE="DASH"><ITEM>
+<P>Lloyd's syndicates shall prepare annual accounts (<QUOT.START CODE="2018" ID="QS0006" REF.END="QE0006"></QUOT.START>syndicate accounts<QUOT.END CODE="2019" ID="QE0006" REF.START="QS0006"></QUOT.END>), and</P></ITEM>
+<ITEM><P>Lloyd's shall prepare aggregate accounts (<QUOT.START CODE="2018" ID="QS0007" REF.END="QE0007"></QUOT.START>aggregate accounts<QUOT.END CODE="2019" ID="QE0007" REF.START="QS0007"></QUOT.END>) in place of the consolidated accounts prescribed in Directive 83/349/EEC.</P></ITEM></LIST>
+<P>In this Annex, <QUOT.START CODE="2018" ID="QS0008" REF.END="QE0008"></QUOT.START>Lloyd's accounts<QUOT.END CODE="2019" ID="QE0008" REF.START="QS0008"></QUOT.END> shall mean both types of accounts referred to above.</P></GR.SEQ>
+<GR.SEQ LEVEL="1"><TITLE>
+<TI><NP>
+<NO.P>B.</NO.P><TXT>Special provisions</TXT></NP></TI></TITLE>
+<GR.SEQ LEVEL="2"><TITLE>
+<TI><NP>
+<NO.P>1.</NO.P><TXT>Contents of syndicate accounts</TXT></NP></TI></TITLE>
+<P>Subject to paragraph 9, syndicate accounts shall be prepared on a cumulative basis for three underwriting years of account at a time and shell comprise a separate underwriting years of account for each such year and a balance sheet for all such years taken together. Accounts prepared after 12 and 24 months respectively shall be known as open years. The underwriting account shall be prepared by analogy with the provisions governing the preparation of the profit and loss account; it shall show, in addition:</P>
+<LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT>for each entry, the change in the figures since the preceding accounting date;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT>the allocated capacity of the syndicate for the relevant underwriting year of account.</TXT></NP></ITEM></LIST></GR.SEQ>
+<GR.SEQ LEVEL="2"><TITLE>
+<TI><NP>
+<NO.P>2.</NO.P><TXT>Contents of aggregate accounts</TXT></NP></TI></TITLE>
+<P>Aggregate accounts shall be prepared by cumulation of the accounts of all Lloyd's syndicates. They shall include a note giving details of:</P>
+<LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT>inter-syndicate business including premiums written and claims paid;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT>the method by which run-off years of account, referred to in paragraph 9, are taken into account;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(c)</NO.P><TXT>the method by which the premium income limit for individual members of Lloyd's syndicates is calculated.</TXT></NP></ITEM></LIST></GR.SEQ>
+<GR.SEQ LEVEL="2"><TITLE>
+<TI><NP>
+<NO.P>3.</NO.P><TXT>Capital</TXT></NP></TI></TITLE>
+<P>Lloyd's and Lloyd's syndicates shall not be required to disclose, in the aggregate accounts and dyndicate accounts respectively, figures for liabilities items A (I) (Subscribed capital or equivalent fund), A (II) (Share premium account) and A (IV) (Reserves). Instead, Lloyd's shall attach a note to the aggregate accounts disclosing the following:</P>
+<LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT>Members' personal resources</TXT>
+<P><LIST TYPE="ARAB"><ITEM>
+<NP><NO.P>1.</NO.P><TXT>Lloyd's deposits</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>2.</NO.P><TXT>The Personal Reserve Fund</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>3.</NO.P><TXT>The Special Reserve Fund</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>4.</NO.P><TXT>Other disclosed means</TXT></NP></ITEM></LIST></P></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT>Central resources of Lloyd's</TXT>
+<P><LIST TYPE="ARAB"><ITEM>
+<NP><NO.P>1.</NO.P><TXT>The net assets of the Central Fund</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>2.</NO.P><TXT>The net assets of the Corporation of Lloyd's.</TXT></NP></ITEM></LIST></P></NP></ITEM></LIST></GR.SEQ>
+<GR.SEQ LEVEL="2"><TITLE>
+<TI><NP>
+<NO.P>4.</NO.P><TXT>Taxation</TXT></NP></TI></TITLE>
+<LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT>Lloyd's and Lloyd's syndicates shall not be required to disclose, in the aggregate accounts and syndicate accounts respectively, figures for liabilities items E (2) (Provisions for taxation) and G (V) (Other creditors, including tax and social security), as far as tax alone is concerned, and items III (9) (Tax on profit or loss on ordinary activities) and III (14) (Tax on extraordinary profit or loss) in the profit and loss account as with the exception of amounts deducted at source.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT>However, a note to all Lloyd's accounts shall state why a tax charge is not shown and the basic rate of tax applicable for the amounts deducted at source.</TXT></NP></ITEM></LIST></GR.SEQ>
+<GR.SEQ LEVEL="2"><TITLE>
+<TI><NP>
+<NO.P>5.</NO.P><TXT>Accounting principles</TXT></NP></TI></TITLE>
+<LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT><HT TYPE="ITALIC">Going concern</HT></TXT>
+<P>The going concern principle set out in Article 31 (1) (a) of Directive 78/660/EEC shall not apply to Lloyd's accounts.</P></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT><HT TYPE="ITALIC">Accruals</HT></TXT>
+<P>The accruals principle set out in Article 31 (1) (d) of Directive 78/660/EEC shall not apply to Lloyd's accounts.</P></NP></ITEM>
+<ITEM><NP>
+<NO.P>(c)</NO.P><TXT><HT TYPE="ITALIC">Allocation of income</HT></TXT>
+<P>Not more than three years after the date referred to in Article 70 (1), Lloyd's and Lloyd's syndicates shall allocate income which derives from insurance contracts to syndicate years of account on an inception date basis.</P></NP></ITEM>
+<ITEM><NP>
+<NO.P>(d)</NO.P><TXT><HT TYPE="ITALIC">Other accounting principles</HT></TXT>
+<P>In all Lloyd's accounts:</P><P><LIST TYPE="DASH"><ITEM>
+<P>like items shall receive uniform treatment,</P></ITEM>
+<ITEM><P>reinsurance recoveries shall be taken into account in respect of open years where a syndicate has paid a claim,</P></ITEM>
+<ITEM><P>operating expenses shall be allocated to the underwriting year of account for which they are incurred.</P></ITEM></LIST></P></NP></ITEM></LIST></GR.SEQ>
+<GR.SEQ LEVEL="2"><TITLE>
+<TI><NP>
+<NO.P>6.</NO.P><TXT>Technical provisions</TXT></NP></TI></TITLE>
+<P>Subject to paragraph 9 and by way of derogation from Articles 56 and 60, technical provisions shall not appear in Lloyd's accounts.</P><P>However:</P>
+<LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT>the underwriting accounts for open years shall show the excess of the premiums collected over the claims and expenses paid, by analogy with Article 61;</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT>a provision for claims outstanding shall be calculated when the underwriting year of account is closed and shall be shown in accordance with paragraph 8.</TXT></NP></ITEM></LIST></GR.SEQ>
+<GR.SEQ LEVEL="2"><TITLE>
+<TI><NP>
+<NO.P>7.</NO.P><TXT>Open years</TXT></NP></TI></TITLE>
+<P>Syndicates shall prepare accounts for open years on a cash receipts and payments basis.</P></GR.SEQ>
+<GR.SEQ LEVEL="2"><TITLE>
+<TI><NP>
+<NO.P>8.</NO.P><TXT>Reinsurance to close</TXT></NP></TI></TITLE>
+<P>Subject to paragraph 9, syndicates shall close their accounts at the end of a three-year period by payment of a premium (<QUOT.START CODE="2018" ID="QS0009" REF.END="QE0009"></QUOT.START>Reinsurance to close<QUOT.END CODE="2019" ID="QE0009" REF.START="QS0009"></QUOT.END>) and shall disclose at least the following information:</P><P><TBL CLASS="GEN" NO.SEQ="003" COLS="4"><CORPUS>
+<ROW><CELL COL="1"><NP><NO.P>—</NO.P><TXT>Gross notified outstanding claims</TXT></NP></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><NP><NO.P>—</NO.P><TXT>Reinsurance recoveries anticipated (-)</TXT></NP></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><NP><NO.P>—</NO.P><TXT>Net notified outstanding claims</TXT></NP></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><NP><NO.P>—</NO.P><TXT>Provision for gross claims incurred but not reported</TXT></NP></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><NP><NO.P>—</NO.P><TXT>Reinsurance recoveries anticipated (-)</TXT></NP></CELL>
+<CELL COL="2">…</CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><NP><NO.P>—</NO.P><TXT>Provision for net claims incurred but not reported</TXT></NP></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3">…</CELL>
+<CELL COL="4"><IE></IE></CELL></ROW>
+<ROW><CELL COL="1"><NP><NO.P>—</NO.P><TXT>Net premium for <QUOT.START CODE="2018" ID="QS0010" REF.END="QE0010"></QUOT.START>reinsurance to close<QUOT.END CODE="2019" ID="QE0010" REF.START="QS0010"></QUOT.END> the year of account (net total)</TXT></NP></CELL>
+<CELL COL="2"><IE></IE></CELL>
+<CELL COL="3"><IE></IE></CELL>
+<CELL COL="4">…</CELL></ROW></CORPUS></TBL></P></GR.SEQ>
+<GR.SEQ LEVEL="2"><TITLE>
+<TI><NP>
+<NO.P>9.</NO.P><TXT>Run-off years of account</TXT></NP></TI></TITLE>
+<LIST TYPE="alpha"><ITEM>
+<NP><NO.P>(a)</NO.P><TXT>For the purposes of this paragraph a run-off year of account shall be one in respect of which, on the date on which it would normally be closed in accordance with paragraph 8, uncertainty prevents the determination of the <QUOT.START CODE="2018" ID="QS0011" REF.END="QE0011"></QUOT.START>reinsurance to close<QUOT.END CODE="2019" ID="QE0011" REF.START="QS0011"></QUOT.END>, and which accordingly is left open until that uncertainty is resolved.</TXT></NP></ITEM>
+<ITEM><NP>
+<NO.P>(b)</NO.P><TXT>In respect of each run-off year of account, syndicate accounts shall include an underwriting account showing the amount retained to meet all known and unknown outstanding liabilities, which represents a provision for claims outstanding estimated in the usual manner.</TXT></NP></ITEM></LIST></GR.SEQ>
+<GR.SEQ LEVEL="2"><TITLE>
+<TI><NP>
+<NO.P>10.</NO.P><TXT>Disclosure of deposits with cedants</TXT></NP></TI></TITLE>
+<P>For up to three years after the date referred to in Article 70 (1) Lloyd's and Lloyd's syndicates shall not be required to disclose the figures for assets item C (IV) (Deposits with ceding untertakings).</P></GR.SEQ>
+<GR.SEQ LEVEL="2"><TITLE>
+<TI><NP>
+<NO.P>11.</NO.P><TXT>Life business</TXT></NP></TI></TITLE>
+<P>By way of derogation from Article 33 (3), Lloyd's life-assurance business (pure term life assurance for a period of not more than 10 years) may be shown in Lloyd's accounts in the format provided for in Article 34 (I) for non-life-insurance business.</P></GR.SEQ>
+<GR.SEQ LEVEL="2"><TITLE>
+<TI><NP>
+<NO.P>12.</NO.P><TXT>Gross premiums</TXT></NP></TI></TITLE>
+<P>By way of derogation from Article 35, gross premiums may be stated net of brokerage. By way of addition to the requirements of Article 35 in relation to profit and loss account items I (1) (a) and II (1) (a) (Gross premiums written, net of reinsurance) a note shall be included:</P>
+<LIST TYPE="DASH"><ITEM>
+<P>in each syndicate's accounts explaining the basis upon which commission and brokerage are charged and giving the estimated average rate of commission and brokerage for each of the main lines of business written by the syndicate,</P></ITEM>
+<ITEM><P>in the aggregate accounts giving the estimated average rate of commission and brokerage across the market.</P></ITEM></LIST></GR.SEQ>
+<GR.SEQ LEVEL="2"><TITLE>
+<TI><NP>
+<NO.P>13.</NO.P><TXT>Contents of the notes on Lloyd's accounts</TXT></NP></TI></TITLE>
+<P>In the notes on Lloyd's accounts the meaning of gross premiums shall be as set out in paragraph 12.</P></GR.SEQ></GR.SEQ></CONTENTS></CONS.ANNEX>
+<?CLG.MDFC ID="C001001M007000" IDREF="O001001M007000"?></CONS.DOC></CONS.ACT></DOC>

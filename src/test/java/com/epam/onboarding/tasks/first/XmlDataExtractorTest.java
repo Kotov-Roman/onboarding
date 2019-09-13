@@ -26,7 +26,7 @@ public class XmlDataExtractorTest extends ApplicationTests {
     xmlDataExtractor.retrieveDataToJsonFile(TEMPLATE_FILE_PATH, RESULT_FILE_PATH);
 
     String expectedString = readFile(EXPECTED_FILE_PATH);
-    String actualString = readFile(EXPECTED_FILE_PATH);
+    String actualString = readFile(RESULT_FILE_PATH);
 
     Gson gson = new Gson();
     DataContainer expectedData = gson.fromJson(expectedString, DataContainer.class);

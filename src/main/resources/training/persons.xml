@@ -1,0 +1,52 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<class>-->
+<!--<persons>-->
+<!--  <person>-->
+<!--    <name lang="en">-->
+<!--      <firstName>Steve</firstName>-->
+<!--      <surname>Jones</surname>-->
+<!--    </name>-->
+<!--    <address>-->
+<!--      <firstLine>33 Churchill Road</firstLine>-->
+<!--      <secondLine>Washington</secondLine>-->
+<!--      <city>Washington DC</city>-->
+<!--    </address>-->
+<!--    <age>45</age>-->
+<!--  </person>-->
+<!--</persons>-->
+<!--<persons>-->
+<!--  <person>-->
+<!--    <name lang="en">-->
+<!--      <firstName>ROMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</firstName>-->
+<!--      <surname>KOTOVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV</surname>-->
+<!--    </name>-->
+<!--    <address>-->
+<!--      <firstLine>KINGGGGGGGGGGGGGGGGGGGG</firstLine>-->
+<!--      <secondLine>LLLLLLLLLLLLLLLLLLLLLLLLOOOOOOOOOOOOOOOOOOLLL</secondLine>-->
+<!--      <city>LUUUUUUUUUUUUUUUUUUUUUUL</city>-->
+<!--    </address>-->
+<!--    <age>45</age>-->
+<!--  </person>-->
+<!--</persons>-->
+<!--</class>-->
+<class>
+<ARTICLE>
+  <TITLE>A Sample Article</TITLE>
+  <SECT>The First Major Section
+    <PARA>Para----) This section will introduce a subsection.</PARA>
+    <SECT>The Subsection Heading
+      <PARA>This is the text of the subsection.
+      </PARA>
+    </SECT>
+  </SECT>
+</ARTICLE><ARTICLE>
+  <TITLE>A Sample Article</TITLE>
+  <SECT>The First Major Section
+    <PARA>Para----) This section will introduce a subsection.</PARA>
+    <SECT>The Subsection Heading
+      <PARA>This is the text of the subsection.
+      </PARA>
+    </SECT>
+  </SECT>
+</ARTICLE>
+</class>
