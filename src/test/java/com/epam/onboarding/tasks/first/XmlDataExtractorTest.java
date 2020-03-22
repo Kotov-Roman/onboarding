@@ -1,48 +1,49 @@
 package com.epam.onboarding.tasks.first;
 
-import static org.mockito.ArgumentMatchers.any;
-import static org.mockito.ArgumentMatchers.anyString;
-import static org.mockito.Mockito.doNothing;
-import static org.mockito.Mockito.doReturn;
-import static org.mockito.Mockito.mock;
-import static org.mockito.Mockito.verify;
-
-import java.io.File;
-import javax.xml.xpath.XPathFactory;
-import org.junit.Before;
+import com.epam.onboarding.ApplicationTests;
+import com.google.gson.Gson;
+import java.io.IOException;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.stream.Stream;
+import org.assertj.core.api.Assertions;
 import org.junit.Test;
-import org.mockito.InjectMocks;
-import org.mockito.Mock;
-import org.mockito.Mockito;
-import org.mockito.MockitoAnnotations;
-import org.mockito.Spy;
-import org.w3c.dom.Document;
+import org.springframework.beans.factory.annotation.Autowired;
 
-public class XmlDataExtractorTest {
+public class XmlDataExtractorTest extends ApplicationTests {
 
-  @Mock
-  private XPathFactory xPathFactory;
-
-  @Spy
-  @InjectMocks
+  @Autowired
   private XmlDataExtractor xmlDataExtractor;
 
-  @Before
-  public void setUp() {
-    MockitoAnnotations.initMocks(this);
-  }
+  private static final String TEMPLATE_FILE_PATH = "src/test/resources/templates/notice.xml";
+  private static final String RESULT_FILE_PATH = "src/test/resources/results/result.json";
+  private static final String EXPECTED_FILE_PATH = "src/test/resources/check/expectedResult.json";
 
   @Test
-  public void retrieveDataToJson() {
-    Document document = mock(Document.class);
-    DataContainer dataContainer = mock(DataContainer.class);
+  public void xmlModifierTest() {
 
-    doReturn(document).when(xmlDataExtractor).getDocument(any(File.class));
-    doReturn(dataContainer).when(xmlDataExtractor).retrieveDataFromFile(document);
-    doNothing().when(xmlDataExtractor).saveDataAsJson(dataContainer);
+    xmlDataExtractor.retrieveDataToJsonFile(TEMPLATE_FILE_PATH, RESULT_FILE_PATH);
 
-    xmlDataExtractor.retrieveDataToJson(anyString());
+    String expectedString = readFile(EXPECTED_FILE_PATH);
+    String actualString = readFile(RESULT_FILE_PATH);
 
-    verify(xmlDataExtractor).saveDataAsJson(dataContainer);
+    Gson gson = new Gson();
+    DataContainer expectedData = gson.fromJson(expectedString, DataContainer.class);
+    DataContainer actualData = gson.fromJson(actualString, DataContainer.class);
+
+    Assertions.assertThat(actualData).isEqualTo(expectedData);
+  }
+
+  private static String readFile(String filePath) {
+    StringBuilder result = new StringBuilder();
+
+    try (Stream<String> stream = Files.lines(Paths.get(filePath), StandardCharsets.UTF_8)) {
+      stream.forEach(result::append);
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+
+    return result.toString();
   }
 }

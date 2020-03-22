@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <catalog>
+    <cd>
+      <title>title1</title>
+      <artist>Bob Dylan</artist>
+      <country>USA</country>
+      <company>Columbia</company>
+      <price>10.90</price>
+      <year>1985</year>
+    </cd>
+    <cd>
+      <title>title2</title>
+      <artist>Bonnie Tyler</artist>
+      <country>UK</country>
+      <company>CBS Records</company>
+      <price>9.90</price>
+      <year>1988</year>
+    </cd>
+  </catalog>
+  <catalog>
+    <cd>
+      <title>title3</title>
+      <artist>Bob Dylan</artist>
+      <country>USA</country>
+      <company>Columbia</company>
+      <price>10.90</price>
+      <year>1985</year>
+    </cd>
+    <cd>
+      <title>title4</title>
+      <artist>Bonnie Tyler</artist>
+      <country>UK</country>
+      <company>CBS Records</company>
+      <price>9.90</price>
+      <year>1988</year>
+    </cd>
+  </catalog>
+</root>

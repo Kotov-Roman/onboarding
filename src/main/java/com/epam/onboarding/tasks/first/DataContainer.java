@@ -1,8 +1,10 @@
 package com.epam.onboarding.tasks.first;
 
 import lombok.Builder;
+import lombok.Data;
 
 @Builder
+@Data
 public class DataContainer {
 
   private String creationDate;
@@ -10,30 +12,6 @@ public class DataContainer {
   private String modificationDate;
 
   private String expressionTitle;
-
-  public String getCreationDate() {
-    return creationDate;
-  }
-
-  public void setCreationDate(String creationDate) {
-    this.creationDate = creationDate;
-  }
-
-  public String getModificationDate() {
-    return modificationDate;
-  }
-
-  public void setModificationDate(String modificationDate) {
-    this.modificationDate = modificationDate;
-  }
-
-  public String getExpressionTitle() {
-    return expressionTitle;
-  }
-
-  public void setExpressionTitle(String expressionTitle) {
-    this.expressionTitle = expressionTitle;
-  }
 
   @Override
   public String toString() {
